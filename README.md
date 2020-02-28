@@ -70,4 +70,23 @@ Starts learning array in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Array
 and exceptional handling in python
 ---------------------------------------------------------------------------------------------------------------------
+Day 15 of #100DaysOfCode
+try to learn something which is on boomRelieved face
+Starts practicing python at @replit 
+and learning RedHat 8 & Python3 by @vimaldaga13
+--------------------------------------------------------------------------------------------------------------------
+Day 16 of #100DaysOfCode
+try to code in python and earn the first star @hackerrank
+---------------------------------------------------------------------------------------------------------------------
+Day 17 Done of #100DaysOfCode
+Successfully completed  Introduction to AWS Lambda at @qwiklabs
+--------------------------------------------------------------------------------------------------------------------
+Day 18 Done of #100DaysOfCode
+today I learn set & tuple in python 
+https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/set
+https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/tuple
+----------------------------------------------------------------------------------------------------------------------
 
+
+ 
+ 
