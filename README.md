@@ -1,11 +1,11 @@
 # 100DaysofCode
 
 ## Day 1: starting with #100DaysOfCode 
-Learning concepts in java and python as well.
+> Learning concepts in java and python as well.
 learned about loops in python
 ---------------------------------------------------
 ## Day 2: Done... #100DaysOfCode 
-Learned about "List" Data Structure in Python 
+> Learned about "List" Data Structure in Python 
 --------------------------------------------------------
 ## Day 3: Done...#100DaysOfCode 
 learned types of Inheritance in java
@@ -62,8 +62,7 @@ Today I learned how to implement packages in java
 > https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/README.md  
 --------------------------------------------------------------------------------------------------------------
 ## Day 13 done.. #100DaysOfCode
-Introductoin  to  Vagrant Cloud : Installation & Setup of Vagrant Cloud on Windows. Learnt about provider, Vagrantfile, Boxes and installing apache on VM
-Will be starting java on @hackerrank soon
+> Introductoin  to  Vagrant Cloud : Installation & Setup of Vagrant Cloud on Windows. Learnt about provider, Vagrantfile, Boxes and installing apache on VM ,Will be starting java on @hackerrank soon
 -------------------------------------------------------------------------------------------------------------------
 ## Day 14 of #100DaysOfCode
 Starts learning array in java 
@@ -71,15 +70,15 @@ Starts learning array in java
 and exceptional handling in python
 ---------------------------------------------------------------------------------------------------------------------
 ## Day 15 of #100DaysOfCode
-try to learn something which is on boomRelieved face
+> try to learn something which is on boomRelieved face
 Starts practicing python at @replit 
 and learning RedHat 8 & Python3 by @vimaldaga13
 --------------------------------------------------------------------------------------------------------------------
 ## Day 16 of #100DaysOfCode
-try to code in python and earn the first star @hackerrank
+> try to code in python and earn the first star @hackerrank
 ---------------------------------------------------------------------------------------------------------------------
 ## Day 17 Done of #100DaysOfCode
-Successfully completed  Introduction to AWS Lambda at @qwiklabs
+> Successfully completed  Introduction to AWS Lambda at @qwiklabs
 --------------------------------------------------------------------------------------------------------------------
 ## Day 18 Done of #100DaysOfCode
 today I learn set & tuple in python 
