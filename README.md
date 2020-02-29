@@ -23,6 +23,7 @@ learned Introduction to Amazon Simple Storage Service (S3) at  QwikLabs
 ----------------------------------------------------------------------------------------------------
 ## Day 5 Done...#100DaysOfCode 
 learned: how to implement Interface in java
+
 > https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program1.java
 learned: how to implement multiple inheritance as well as diamond problem by Interface
 >  https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program2.java
