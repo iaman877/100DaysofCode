@@ -93,3 +93,8 @@ today I learn set & tuple in python
 ## Day 20 Done of #100DaysOfCode
  learn File Handling in python 
 > https://github.com/BhardwajAman199/Programming-with-Python/blob/master/File%20Handling/file.md
+------------------------------------------------------------------------------------------------------------------
+## Day 21 Done #100DaysOfCode
+ learn Exceptional Handling in python 
+> https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md
+
