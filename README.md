@@ -97,4 +97,7 @@ today I learn set & tuple in python
 ## Day 21 Done #100DaysOfCode
  learn Exceptional Handling in python 
 > https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md
-
+## Day 22 Done #100DaysOfCode
+ learn Exceptional Handling in python 
+> https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
+---------------------------------------------------------------------------------------------------------
