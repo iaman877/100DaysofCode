@@ -100,4 +100,8 @@ today I learn set & tuple in python
 ## Day 22 Done #100DaysOfCode
  implement Exceptional Handling in java
 > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
+## Day 23 Done #100DaysOfCode
+ Explore more Exceptional Handling in java
+> https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
+
 ---------------------------------------------------------------------------------------------------------
