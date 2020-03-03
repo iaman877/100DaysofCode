@@ -101,7 +101,8 @@ today I learn set & tuple in python
  implement Exceptional Handling in java
 > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
 ## Day 23 Done #100DaysOfCode
- Explore more Exceptional Handling in java
-> https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
-
+ * Explore more Exceptional Handling in java
+ * Start learning  ESP8266 NodeMCU on Ardino
+ * Introductoin  to Cisco Packet Tracer : Installation & Setup of Packet Tracer tool on Windows
+ > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
 ---------------------------------------------------------------------------------------------------------
