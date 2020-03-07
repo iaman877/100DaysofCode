@@ -113,7 +113,10 @@ created a new repo and try to explore more about  os level virtualization
 ## Day 25 Done #100DaysOfCode
 > today I learned how to create an AWS EC2 Snapshot and Restore from Snapshot @awscloud
 -----------------------------------------------------------------------------------------------------------
-## Day 26 Done #100DaysOfCode
+## Day 26 Done #100DaysOfCode 
+> Today I haven't done something new because I am travelling whole day  but  revise AWS fundamental & intro to thread in java 
+-----------------------------------------------------------------------------------------------------------------------------
+## Day 27 Done #100DaysOfCode
  work on Custom/User Define Exception in java 
  > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
  
