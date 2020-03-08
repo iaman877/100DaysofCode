@@ -119,4 +119,7 @@ created a new repo and try to explore more about  os level virtualization
 ## Day 27 Done #100DaysOfCode
  work on Custom/User Define Exception in java 
  > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
- 
+ --------------------------------------------------------------------------------------------------------------------------
+ ## Day 28 Done #100DaysOfCode
+ Try to implement some program on Multithreading in Java 
+ > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
