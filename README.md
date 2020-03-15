@@ -132,3 +132,10 @@ practice some recursive problem in python
 > Recursion &  anonymous function  in python 
 
 > https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function 
+## Day 31 of #100DaysOfCode 
+> Recursion &  anonymous function  in python  
+
+> explore little deep in file handling 
+
+> intro to Regular Expressions in Python
+https://github.com/BhardwajAman199/Programming-with-Python/tree/master/File%20Handling
