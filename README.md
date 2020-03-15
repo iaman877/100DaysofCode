@@ -142,3 +142,8 @@ https://github.com/BhardwajAman199/Programming-with-Python/tree/master/File%20Ha
 ## Day 32 of #100DaysOfCode 
 > bytes() , bytearray() and range function in python  
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/inbuit%20function
+## Day 33 of #100DaysOfCode 
+> learn about :- trusty64,xenial64,centos/7 @virtualbox
+
+> To access HTTP Server from the vagrant machine by port forwarding 
+https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
