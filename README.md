@@ -126,7 +126,7 @@ created a new repo and try to explore more about  os level virtualization
 ## Day 29 of #100DaysOfCode 
 practice some recursive problem in python
 > https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/Recursion
-Day 30 of #100DaysOfCode 
+## Day 30 of #100DaysOfCode 
 > Happy Holi to all 
 
 > Recursion &  anonymous function  in python 
