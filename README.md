@@ -69,15 +69,14 @@ Today I learned how to implement packages in java
 Starts learning array in java 
 > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Array
 and exceptional handling in python
----------------------------------------------------------------------------------------------------------------------
 ## Day 15 of #100DaysOfCode
 > try to learn something which is on boomRelieved face
 Starts practicing python at @replit 
 and learning RedHat 8 & Python3 by @vimaldaga13
---------------------------------------------------------------------------------------------------------------------
+
 ## Day 16 of #100DaysOfCode
 > try to code in python and earn the first star @hackerrank
----------------------------------------------------------------------------------------------------------------------
+
 ## Day 17 Done of #100DaysOfCode
 > Successfully completed  Introduction to AWS Lambda at @qwiklabs
 --------------------------------------------------------------------------------------------------------------------
@@ -155,4 +154,6 @@ https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
 >  try to build private network in vagrant https://github.com/BhardwajAman199/Vagrant
 ## Day 36 of #100DaysOfCode 
  Cost Estimation & SDLC in Software Engineering And Project Management in detail  
->  Done some problems on Multithreading topic  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
+>  Done some problems on Multithreading topic
+
+https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
