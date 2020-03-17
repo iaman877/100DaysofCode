@@ -86,11 +86,11 @@ today I learn set & tuple in python
 ## Day 19 Done of #100DaysOfCode
 > throw and throws in Java
 > received project based intern letter @i3indya
-------------------------------------------------------------------------------------------------------------------
+
 ## Day 20 Done of #100DaysOfCode
  learn File Handling in python 
 > https://github.com/BhardwajAman199/Programming-with-Python/blob/master/File%20Handling/file.md
-------------------------------------------------------------------------------------------------------------------
+
 ## Day 21 Done #100DaysOfCode
  learn Exceptional Handling in python 
 > https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md
@@ -157,4 +157,4 @@ https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
 > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
 ## Day 37 of consistency and dedication #100DaysOfCode 
 My first box has release on @HashiCorp Vagrant cloud 
-https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox
+> https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox
