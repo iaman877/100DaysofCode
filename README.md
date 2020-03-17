@@ -79,12 +79,10 @@ and learning RedHat 8 & Python3 by @vimaldaga13
 
 ## Day 17 Done of #100DaysOfCode
 > Successfully completed  Introduction to AWS Lambda at @qwiklabs
---------------------------------------------------------------------------------------------------------------------
 ## Day 18 Done of #100DaysOfCode
 today I learn set & tuple in python 
 > https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/set
 > https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/tuple
-----------------------------------------------------------------------------------------------------------------------
 ## Day 19 Done of #100DaysOfCode
 > throw and throws in Java
 > received project based intern letter @i3indya
@@ -157,3 +155,6 @@ https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
 >  Done some problems on Multithreading topic
 
 > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
+## Day 37 of consistency and dedication #100DaysOfCode 
+My first box has release on @HashiCorp Vagrant cloud 
+https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox
