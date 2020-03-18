@@ -102,14 +102,14 @@ today I learn set & tuple in python
  * Start learning  ESP8266 NodeMCU on Ardino
  * Introductoin  to Cisco Packet Tracer : Installation & Setup of Packet Tracer tool on Windows
  > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
----------------------------------------------------------------------------------------------------------
+
 ## Day 24 Done #100DaysOfCode
 created a new repo and try to explore more about  os level virtualization
 > https://github.com/BhardwajAman199/Vagrant
----------------------------------------------------------------------------------------------------------------
+
 ## Day 25 Done #100DaysOfCode
 > today I learned how to create an AWS EC2 Snapshot and Restore from Snapshot @awscloud
------------------------------------------------------------------------------------------------------------
+
 ## Day 26 Done #100DaysOfCode 
 > Today I haven't done something new because I am travelling whole day  but  revise AWS fundamental & intro to thread in java 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -158,3 +158,6 @@ https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
 ## Day 37 of consistency and dedication #100DaysOfCode 
 My first box has release on @HashiCorp Vagrant cloud 
 > https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox
+## Day 38 of #100DaysOfCode  
+ Revise some topic in java like :- Multithreading and package and successfully host a public web page through vagrant 
+ 
