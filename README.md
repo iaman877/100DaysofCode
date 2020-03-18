@@ -159,5 +159,5 @@ https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
 My first box has release on @HashiCorp Vagrant cloud 
 > https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox
 ## Day 38 of #100DaysOfCode  
- Revise some topic in java like :- Multithreading and package and successfully host a public web page through vagrant 
+ Revise some topic in java like :- Multithreading , package and successfully host web page publically through vagrant 
  
