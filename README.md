@@ -112,11 +112,11 @@ created a new repo and try to explore more about  os level virtualization
 
 ## Day 26 Done #100DaysOfCode 
 > Today I haven't done something new because I am travelling whole day  but  revise AWS fundamental & intro to thread in java 
------------------------------------------------------------------------------------------------------------------------------
+
 ## Day 27 Done #100DaysOfCode
  work on Custom/User Define Exception in java 
  > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
- --------------------------------------------------------------------------------------------------------------------------
+
  ## Day 28 Done #100DaysOfCode
  Try to implement some program on Multithreading in Java 
  > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
@@ -160,4 +160,5 @@ My first box has release on @HashiCorp Vagrant cloud
 > https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox
 ## Day 38 of #100DaysOfCode  
  Revise some topic in java like :- Multithreading , package and successfully host web page publically through vagrant 
- 
+ ## Day 39 of #100DaysOfCode  
+ today I learn Introduction to CCMP , BSS , OSS in cloud computing 
