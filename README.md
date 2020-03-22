@@ -168,5 +168,8 @@ My first box has release on @HashiCorp Vagrant cloud
  ## Day 41 of #100DaysOfCode 
  Cover some inbuilt function for string in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
+ ## Day 42 of #100DaysOfCode 
+ day 2 with inbuilt function for string in java 
+ https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
  
  
