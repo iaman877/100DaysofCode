@@ -171,5 +171,6 @@ My first box has release on @HashiCorp Vagrant cloud
  ## Day 42 of #100DaysOfCode 
  day 2 with inbuilt function for string in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
- 
- 
+  ## Day 43 of #100DaysOfCode 
+ Try to implement  Runnable interface in java 
+ https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
