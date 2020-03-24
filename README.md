@@ -174,3 +174,6 @@ My first box has release on @HashiCorp Vagrant cloud
   ## Day 43 of #100DaysOfCode 
  Try to implement  Runnable interface in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
+  ## Day 44 of #100DaysOfCode 
+ starts learning oops  in python 
+ https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
