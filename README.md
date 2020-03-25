@@ -177,3 +177,6 @@ My first box has release on @HashiCorp Vagrant cloud
   ## Day 44 of #100DaysOfCode 
  starts learning oops  in python 
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
+ ## Day 45 of #100DaysOfCode 
+ Day 2 of learning oops in python : self keyword
+ https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
