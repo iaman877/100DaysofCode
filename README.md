@@ -8,13 +8,11 @@ learned about loops in python
 > Learned about "List" Data Structure in Python 
 
 ## Day 3: Done...100DaysOfCode 
-learned types of Inheritance in java
-> https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Inheritance/Hierarchical%20inheritance.java
-> https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Inheritance/Multilevel%20inheritance.java
-Java Final variable, method & class
-> https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Final/Program1.java
-java static  variable, method, block & class
-> https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/static/Program1.java
+learned types of Inheritance in java https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Inheritance/Hierarchical%20inheritance.java
+
+Java Final variable, method & class https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Final/Program1.java
+
+java static  variable, method, block & classhttps://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/static/Program1.java
 
 ## Day 4: Done...100DaysOfCode 
 learned about java abstract class 
@@ -193,4 +191,5 @@ My first box has release on @HashiCorp Vagrant cloud
  autoboxing & unboxing completed in java https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Wrapper%20class
  ## Day 50 of 100DaysOfCode 
  implement some programs using inbuilt as well as user-defined function https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Assignment
- 
+ ## Day 51 of 100DaysOfCode 
+ revise the concept of inheritance and multithreading in java 
