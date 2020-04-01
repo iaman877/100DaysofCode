@@ -1,6 +1,6 @@
 # 100DaysofCode
 
-## Day 1: starting with #100DaysOfCode 
+## Day 1: starting with 100DaysOfCode 
 > Learning concepts in java and python as well.
 learned about loops in python
 
@@ -170,19 +170,19 @@ My first box has release on @HashiCorp Vagrant cloud
  ## Day 42 of #100DaysOfCode 
  day 2 with inbuilt function for string in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
-  ## Day 43 of #100DaysOfCode 
+  ## Day 43 of 100DaysOfCode 
  Try to implement  Runnable interface in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
-  ## Day 44 of #100DaysOfCode 
+  ## Day 44 of 100DaysOfCode 
  starts learning oops  in python 
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
- ## Day 45 of #100DaysOfCode 
+ ## Day 45 of 100DaysOfCode 
  Day 2 of learning oops in python : self keyword
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
- ## Day 46 of #100DaysOfCode 
+ ## Day 46 of 100DaysOfCode 
  little deep in multithreading concept in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
- ## Day 47 of #100DaysOfCode 
+ ## Day 47 of 100DaysOfCode 
  Implement join function with multithreading  in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
  ## Day 48 of 100DaysOfCode 
@@ -193,3 +193,5 @@ My first box has release on @HashiCorp Vagrant cloud
  implement some programs using inbuilt as well as user-defined function https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Assignment
  ## Day 51 of 100DaysOfCode 
  revise the concept of inheritance and multithreading in java https://github.com/BhardwajAman199/OOPs-with-JAVA
+ ## Day 52 of 100DaysOfCode 
+ implement a program with ArrayIndexOutOfBoundsException in java https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Lab%20Experiment/lab7/pro1.java
