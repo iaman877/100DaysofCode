@@ -73,62 +73,62 @@ and exceptional handling in python
 Starts practicing python at @replit 
 and learning RedHat 8 & Python3 by @vimaldaga13
 
-## Day 16 of #100DaysOfCode
+## Day 16 of 100DaysOfCode
 > try to code in python and earn the first star @hackerrank
 
-## Day 17 Done of #100DaysOfCode
+## Day 17 Done of 100DaysOfCode
 > Successfully completed  Introduction to AWS Lambda at @qwiklabs
-## Day 18 Done of #100DaysOfCode
+## Day 18 Done of 100DaysOfCode
 today I learn set & tuple in python 
 > https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/set
 > https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/tuple
-## Day 19 Done of #100DaysOfCode
+## Day 19 Done of 100DaysOfCode
 > throw and throws in Java
 > received project based intern letter @i3indya
 
-## Day 20 Done of #100DaysOfCode
+## Day 20 Done of 100DaysOfCode
  learn File Handling in python 
 > https://github.com/BhardwajAman199/Programming-with-Python/blob/master/File%20Handling/file.md
 
-## Day 21 Done #100DaysOfCode
+## Day 21 Done 100DaysOfCode
  learn Exceptional Handling in python 
 > https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md
-## Day 22 Done #100DaysOfCode
+## Day 22 Done 100DaysOfCode
  implement Exceptional Handling in java
 > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
-## Day 23 Done #100DaysOfCode
+## Day 23 Done 100DaysOfCode
  * Explore more Exceptional Handling in java
  * Start learning  ESP8266 NodeMCU on Ardino
  * Introductoin  to Cisco Packet Tracer : Installation & Setup of Packet Tracer tool on Windows
  > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
 
-## Day 24 Done #100DaysOfCode
+## Day 24 Done 100DaysOfCode
 created a new repo and try to explore more about  os level virtualization
 > https://github.com/BhardwajAman199/Vagrant
 
-## Day 25 Done #100DaysOfCode
+## Day 25 Done 100DaysOfCode
 > today I learned how to create an AWS EC2 Snapshot and Restore from Snapshot @awscloud
 
-## Day 26 Done #100DaysOfCode 
+## Day 26 Done 100DaysOfCode 
 > Today I haven't done something new because I am travelling whole day  but  revise AWS fundamental & intro to thread in java 
 
-## Day 27 Done #100DaysOfCode
+## Day 27 Done 100DaysOfCode
  work on Custom/User Define Exception in java 
  > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
 
- ## Day 28 Done #100DaysOfCode
+ ## Day 28 Done 100DaysOfCode
  Try to implement some program on Multithreading in Java 
  > https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
-## Day 29 of #100DaysOfCode 
+## Day 29 of 100DaysOfCode 
 practice some recursive problem in python
 > https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/Recursion
-## Day 30 of #100DaysOfCode 
+## Day 30 of 100DaysOfCode 
 > Happy Holi to all 
 
 > Recursion &  anonymous function  in python 
 
 > https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function 
-## Day 31 of #100DaysOfCode 
+## Day 31 of 100DaysOfCode 
 > Recursion &  anonymous function  in python  
 
 > explore little deep in file handling 
@@ -197,3 +197,5 @@ My first box has release on @HashiCorp Vagrant cloud
  implement a program with ArrayIndexOutOfBoundsException in java https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Lab%20Experiment/lab7/pro1.java
 ## Day 53 of 100DaysOfCode 
 I upload  my first videos on Vagrant at https://youtu.be/8wqpsVttoQw
+## Day 54 of 100DaysOfCode
+Today I successfully deploy AWS load balancer https://youtu.be/h63sHgnb1b4 
