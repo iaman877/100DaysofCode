@@ -201,3 +201,9 @@ I upload  my first videos on Vagrant at https://youtu.be/8wqpsVttoQw
 Today I successfully deploy AWS load balancer https://youtu.be/h63sHgnb1b4 
 ## Day 55 of 100DaysOfCode
 Done some exceptional handeling question in java  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab7
+## Day 56 of 100DaysOfCode
+Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?hr_r=1
+## Day 57 of 100DaysOfCode
+Controlling LED with a Button on on arduino. I will come up with patterns of blinking.
+## Day 58 of 100DaysOfCode
+Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?hr_r=1
