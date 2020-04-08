@@ -207,3 +207,5 @@ Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?
 Controlling LED with a Button on on arduino. I will come up with patterns of blinking.
 ## Day 58 of 100DaysOfCode
 Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?hr_r=1
+## Day 59 of 100DaysOfCode
+Just earned the Bronze Badge for C++ on HackerRank! http://hr.gs/bcedd
