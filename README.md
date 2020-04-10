@@ -209,5 +209,7 @@ Controlling LED with a Button on on arduino. I will come up with patterns of bli
 Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?hr_r=1
 ## Day 59 of 100DaysOfCode
 Just earned the Bronze Badge for C++ on HackerRank! http://hr.gs/bcedd
-## Day 60 of #100DaysOfCode 
+## Day 60 of 100DaysOfCode 
 Revise String function in java and Deploy our own box on Vagrant Cloud  https://youtu.be/VFuO559TF7U
+## Day 61 of 100DaysOfCode 
+Just earned my 2nd star on the C++ Badge on HackerRank! http://hr.gs/1v2svg1
