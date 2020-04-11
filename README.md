@@ -195,6 +195,6 @@ Just earned the Bronze Badge for C++ on HackerRank! http://hr.gs/bcedd
 Revise String function in java and Deploy our own box on Vagrant Cloud  https://youtu.be/VFuO559TF7U
 ## Day 61 of 100DaysOfCode 
 Just earned my 2nd star on the C++ Badge on HackerRank! http://hr.gs/1v2svg1
-## Day 62 #100DaysOfCode
+## Day 62 of 100DaysOfCode
 Work on some app dev with  @MITAppInventor 
  
