@@ -196,5 +196,5 @@ Revise String function in java and Deploy our own box on Vagrant Cloud  https://
 ## Day 61 of 100DaysOfCode 
 Just earned my 2nd star on the C++ Badge on HackerRank! http://hr.gs/1v2svg1
 ## Day 62 #100DaysOfCode
-Work on some app dev with  @MITAppInventor http://ai2.appinventor.mit.edu/#4569095080116224
+Work on some app dev with  @MITAppInventor 
  
