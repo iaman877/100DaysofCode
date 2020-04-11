@@ -128,12 +128,10 @@ https://github.com/BhardwajAman199/Programming-with-Python/tree/master/File%20Ha
 bytes() , bytearray() and range function in python  
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/inbuit%20function
 ## Day 33 of #100DaysOfCode 
-learn about :- trusty64,xenial64,centos/7 @virtualbox
-> To access HTTP Server from the vagrant machine by port forwarding 
+learn about :- trusty64,xenial64,centos/7 @virtualbox , To access HTTP Server from the vagrant machine by port forwarding 
 https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
 ## Day 34 of #100DaysOfCode 
-*  Introduction to Docker 
-*  Vagrant port forwarding 
+Introduction to Docker , Vagrant port forwarding 
 ## Day 35 of #100DaysOfCode 
  SDLC in Software Engineering And Project Management ,  try to build private network in vagrant https://github.com/BhardwajAman199/Vagrant
 ## Day 36 of #100DaysOfCode 
@@ -197,3 +195,6 @@ Just earned the Bronze Badge for C++ on HackerRank! http://hr.gs/bcedd
 Revise String function in java and Deploy our own box on Vagrant Cloud  https://youtu.be/VFuO559TF7U
 ## Day 61 of 100DaysOfCode 
 Just earned my 2nd star on the C++ Badge on HackerRank! http://hr.gs/1v2svg1
+## Day 62 #100DaysOfCode
+Work on some app dev with  @MITAppInventor http://ai2.appinventor.mit.edu/#4569095080116224
+ 
