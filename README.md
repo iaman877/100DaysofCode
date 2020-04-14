@@ -201,3 +201,5 @@ Work on some app dev with  @MITAppInventor
 Try to code on Strings Handling and Wrapper Class in java https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab8
 ## Day 64 100DaysOfCode 
 Controlling LED with loops and different time delay  
+## Day 65 100DaysOfCode
+Just earned the Bronze Badge for Sql on HackerRank! http://hr.gs/1vpu9q7
