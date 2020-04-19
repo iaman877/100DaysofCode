@@ -210,6 +210,6 @@ Just earned the Bronze Badge for 30 Days of Code on HackerRank! http://hr.gs/1w5
 ## Day 68 100DaysOfCode
 Successfully made my first game by MIT App inventor https://twitter.com/iaman877/status/1251028244154834945
 ## Day 69 100DaysOfCode
-Just solved Day 3: Intro to Conditional Statements on @HackerRank. http://hr.gs/bdefab #programming
+Just solved Day 3: Intro to Conditional Statements on @HackerRank. http://hr.gs/bdefab#programming
 ## Day 70 100DaysOfCode
-Just solved Day 4: Class vs. Instance on @HackerRank.  http://hr.gs/70bo #programming
+Just solved Day 4: Class vs. Instance on @HackerRank.  http://hr.gs/70bo#programming
