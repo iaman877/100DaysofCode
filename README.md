@@ -213,3 +213,5 @@ Successfully made my first game by MIT App inventor https://twitter.com/iaman877
 Just solved Day 3: Intro to Conditional Statements on @HackerRank. http://hr.gs/bdefab#programming
 ## Day 70 100DaysOfCode
 Just solved Day 4: Class vs. Instance on @HackerRank.  http://hr.gs/70bo#programming
+## Day 71 100DaysOfCode
+Solve some C problem on hackerRank https://www.hackerrank.com/bhardwajaman877
