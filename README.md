@@ -215,3 +215,5 @@ Just solved Day 3: Intro to Conditional Statements on @HackerRank. http://hr.gs/
 Just solved Day 4: Class vs. Instance on @HackerRank.  http://hr.gs/70bo#programming
 ## Day 71 100DaysOfCode
 Solve some C problem on hackerRank https://www.hackerrank.com/bhardwajaman877
+## Day 72 100DaysOfCode
+Just earned my 2nd star on the 30 Days of Code Badge on HackerRank! http://hr.gs/1x10jjq
