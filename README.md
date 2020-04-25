@@ -221,3 +221,7 @@ Just earned my 2nd star on the 30 Days of Code Badge on HackerRank! http://hr.gs
 Solve some C++  problem on hackerRank http://hr.gs/70d7#programming
 ## Day 74 100DaysOfCode
 Solve a problems on Dictionaries and Maps on @HackerRank.  https://www.hackerrank.com/bhardwajaman877
+## Day 75 100DaysOfCode
+On the way of real-time Mobile Apps Development to connect GoogleFirebase by MITAppInventor https://twitter.com/iaman877/status/1253691715329851398
+## Day 76 100DaysOfCode
+Solve some C++  problem on hackerRank https://www.hackerrank.com/bhardwajaman877
