@@ -226,4 +226,4 @@ On the way of real-time Mobile Apps Development to connect GoogleFirebase by MIT
 ## Day 76 100DaysOfCode
 Solve some C++  problem on hackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 77 100DaysOfCode
-Solve "hourglass sum" problem using 2D array on hackerRank https://www.hackerrank.com/bhardwajaman877
+Solved "hourglass sum" problem using 2D array on hackerRank https://www.hackerrank.com/bhardwajaman877
