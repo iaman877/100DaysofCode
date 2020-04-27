@@ -228,4 +228,4 @@ Solve some C++  problem on hackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 77 100DaysOfCode
 Solved "hourglass sum" problem using 2D array on hackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 78 100DaysOfCode
-Solved Day 12: Inheritance problem  on hackerRank https://www.hackerrank.com/bhardwajaman877
+Solved Day 12 problem on Inheritance in Java https://www.hackerrank.com/bhardwajaman877
