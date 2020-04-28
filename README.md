@@ -230,5 +230,5 @@ Solved "hourglass sum" problem using 2D array on hackerRank https://www.hackerra
 ## Day 78 of  100DaysOfCode
 Solved Day 12 problem on Inheritance in Java https://www.hackerrank.com/bhardwajaman877
 ## Day 79  of 100DaysOfCode
-I ntroduction to JDBC in java and facing to much problem to setup. and solve Day 13 problem on abstract class at hackerRank
+Introduction to JDBC in java and facing to much problem to setup. and solve Day 13 problem on abstract class at hackerRank
 https://www.hackerrank.com/bhardwajaman877
