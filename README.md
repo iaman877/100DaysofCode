@@ -199,33 +199,36 @@ Just earned my 2nd star on the C++ Badge on HackerRank! http://hr.gs/1v2svg1
 Work on some app dev with  @MITAppInventor 
 ## Day 63 of 100DaysOfCode
 Try to code on Strings Handling and Wrapper Class in java https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab8
-## Day 64 100DaysOfCode 
+## Day 64 of 100DaysOfCode 
 Controlling LED with loops and different time delay  
-## Day 65 100DaysOfCode
+## Day 65 of 100DaysOfCode
 Just earned the Bronze Badge for Sql on HackerRank! http://hr.gs/1vpu9q7
-## Day 66 100DaysOfCode
+## Day 66 of 100DaysOfCode
 today I start Coding on 30 Days of Code at hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 67 100DaysOfCode
+## Day 67 of 100DaysOfCode
 Just earned the Bronze Badge for 30 Days of Code on HackerRank! http://hr.gs/1w5lu6j
-## Day 68 100DaysOfCode
+## Day 68 of 100DaysOfCode
 Successfully made my first game by MIT App inventor https://twitter.com/iaman877/status/1251028244154834945
-## Day 69 100DaysOfCode
+## Day 69 of 100DaysOfCode
 Just solved Day 3: Intro to Conditional Statements on @HackerRank. http://hr.gs/bdefab#programming
-## Day 70 100DaysOfCode
+## Day 70 of  100DaysOfCode
 Just solved Day 4: Class vs. Instance on @HackerRank.  http://hr.gs/70bo#programming
-## Day 71 100DaysOfCode
+## Day 71 of  100DaysOfCode
 Solve some C problem on hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 72 100DaysOfCode
+## Day 72 of 100DaysOfCode
 Just earned my 2nd star on the 30 Days of Code Badge on HackerRank! http://hr.gs/1x10jjq
-## Day 73 100DaysOfCode
+## Day 73 of 100DaysOfCode
 Solve some C++  problem on hackerRank http://hr.gs/70d7#programming
-## Day 74 100DaysOfCode
+## Day 74 of  100DaysOfCode
 Solve a problems on Dictionaries and Maps on @HackerRank.  https://www.hackerrank.com/bhardwajaman877
-## Day 75 100DaysOfCode
+## Day 75 of 100DaysOfCode
 On the way of real-time Mobile Apps Development to connect GoogleFirebase by MITAppInventor https://twitter.com/iaman877/status/1253691715329851398
-## Day 76 100DaysOfCode
+## Day 76 of 100DaysOfCode
 Solve some C++  problem on hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 77 100DaysOfCode
+## Day 77 of 100DaysOfCode
 Solved "hourglass sum" problem using 2D array on hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 78 100DaysOfCode
+## Day 78 of  100DaysOfCode
 Solved Day 12 problem on Inheritance in Java https://www.hackerrank.com/bhardwajaman877
+## Day 79  of 100DaysOfCode
+I ntroduction to JDBC in java and facing to much problem to setup. and solve Day 13 problem on abstract class at hackerRank
+https://www.hackerrank.com/bhardwajaman877
