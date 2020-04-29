@@ -233,5 +233,5 @@ Solved Day 12 problem on Inheritance in Java https://www.hackerrank.com/bhardwaj
 Introduction to JDBC in java and facing to much problem to setup. and solve Day 13 problem on abstract class at hackerRank
 https://www.hackerrank.com/bhardwajaman877
 ## Day 80  of 100DaysOfCode
-Just earned the Silver Badge for 30 Days of Code on HackerRankSmiling face
+Just earned the Silver Badge for 30 Days of Code on HackerRank
 http://hr.gs/1yqo69b
