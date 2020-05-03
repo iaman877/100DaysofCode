@@ -241,4 +241,5 @@ Implementation  of Link List in java at hackerRank https://www.hackerrank.com/bh
 Successfully made a real-time app to connect #GoogleFirebase by MITAppInventor https://twitter.com/iaman877/status/1256206817711063040
 ## Day 83 of 100DaysOfCode
 Done Exception handeling question on HackerRank https://www.hackerrank.com/bhardwajaman877
-
+## Day 84 of 100DaysOfCode
+Solve stack and queue problem at HackerRank https://www.hackerrank.com/bhardwajaman877
