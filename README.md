@@ -242,6 +242,8 @@ Successfully made a real-time app to connect #GoogleFirebase by MITAppInventor h
 ## Day 83 of 100DaysOfCode
 Done Exception handeling question on HackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 84 of 100DaysOfCode
-Solve stack and queue problem at HackerRank https://www.hackerrank.com/bhardwajaman877
+Solved stack and queue problem at HackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 85 of 100DaysOfCode
-Solve Interface problem at HackerRank https://www.hackerrank.com/bhardwajaman877
+Solved Interface problem at HackerRank https://www.hackerrank.com/bhardwajaman877
+## Day 86 of 100DaysOfCode
+Solved Sorting Challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
