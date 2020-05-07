@@ -249,3 +249,6 @@ Solved Interface problem at HackerRank https://www.hackerrank.com/bhardwajaman87
 Solved Sorting Challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 87 of 100DaysOfCode
 Just earned my 4th star on the 30 Days of Code Badge on HackerRank! http://hr.gs/dbfcf
+## Day 88 of 100DaysOfCode
+Solved Binary Search tree challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
+
