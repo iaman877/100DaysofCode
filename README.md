@@ -1,6 +1,6 @@
 # 100DaysofCode
 
-## Day 1: starting with 100DaysOfCode 
+## Day 1: starting with 100DaysOfCode  Feb9
 Learning concepts in java and python as well.
 learned about loops in python
 
