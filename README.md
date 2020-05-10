@@ -1,42 +1,42 @@
 # 100DaysofCode
 
-## Day 1: starting  Feb9
+## Day 1: starting  Feb 9
 Learning concepts in java and python as well.
 learned about loops in python
 
-## Day 2: 
+## Day 2: Feb 10
 Learned about "List" Data Structure in Python 
 
-## Day 3: 
+## Day 3: Feb 11
 Java Final variable, method & class and learned types of Inheritance in java https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Inheritance/Hierarchical%20inheritance.java 
-## Day 4:
+## Day 4: Feb 12
 learned about java abstract class 
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Abstract/Program1.java
 learned Introduction to Amazon Simple Storage Service (S3) at  QwikLabs
 
-## Day 5 
+## Day 5 Feb 13
 learned: how to implement Interface in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program1.java
 
-## Day 6 
+## Day 6  Feb 14
 practice some program on Interface in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program3.java
 
-## Day 7  
+## Day 7  Feb 15
 practice some program in java,
 Tried to handle error while declaring child class object of a non-abstract class
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Abstract/program2.java
 
 
-## Day 8:  
+## Day 8:  Feb 16
 Starts learn Exception Handling in Python 
 https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/Program1.py
 
-## Day 9:  
+## Day 9:  Feb 17
 revise and implement 'finally' in exception handling in Python 
  https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/Program1.py
 
-## Day 10 
+## Day 10  Feb 18
 Today I learned Pig Latin problem in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Pig%20Latin.java
 tried to create AWS Linux instance and host a web page on it.
