@@ -14,15 +14,15 @@ learned about java abstract class
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Abstract/Program1.java
 learned Introduction to Amazon Simple Storage Service (S3) at  QwikLabs
 
-## Day 5 Feb 13
+## Day 5: Feb 13
 learned: how to implement Interface in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program1.java
 
-## Day 6  Feb 14
+## Day 6:  Feb 14
 practice some program on Interface in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program3.java
 
-## Day 7  Feb 15
+## Day 7:  Feb 15
 practice some program in java,
 Tried to handle error while declaring child class object of a non-abstract class
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Abstract/program2.java
@@ -36,79 +36,79 @@ https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exception
 revise and implement 'finally' in exception handling in Python 
  https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/Program1.py
 
-## Day 10  Feb 18
+## Day 10:  Feb 18
 Today I learned Pig Latin problem in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Pig%20Latin.java
 tried to create AWS Linux instance and host a web page on it.
 
-## Day 11 Feb 19
+## Day 11: Feb 19
 Today I learned some interesting fact about main( ) and constructor in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Self%20Assignment%201
 Successfully hosted a web page on AWS Linux instance Smiling face with halo
 
-## Day 12 Feb 20
+## Day 12: Feb 20
 Today I learned how to implement packages in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/README.md  
 
-## Day 13 Feb 21 
+## Day 13: Feb 21 
 Introductoin  to  Vagrant Cloud : Installation & Setup of Vagrant Cloud on Windows. Learnt about provider, Vagrantfile, Boxes and installing apache on VM ,Will be starting java on @hackerrank soon
 
-## Day 14 Feb 22
+## Day 14: Feb 22
 Starts learning array in java 
 https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Array
 
 
-## Day 15 Feb 23
+## Day 15: Feb 23
 try to learn something which is on boom,
 Starts practicing python at @replit 
 and learning RedHat 8 & Python3 by @vimaldaga13
 
-## Day 16 Feb 24
+## Day 16: Feb 24
 try to code in python and earn the first star @hackerrank
 
-## Day 17 Feb 25
+## Day 17: Feb 25
 Successfully completed  Introduction to AWS Lambda at @qwiklabs
-## Day 18 Feb 26
+## Day 18: Feb 26
 today I learn set & tuple in python 
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/set
 
-## Day 19 Feb 27
+## Day 19: Feb 27
  throw and throws in Java
  received project based intern letter @i3indya
 
-## Day 20 Feb 28
+## Day 20: Feb 28
  learn File Handling in python 
  https://github.com/BhardwajAman199/Programming-with-Python/blob/master/File%20Handling/file.md
 
-## Day 21 Feb 29
+## Day 21: Feb 29
  learn Exceptional Handling in python 
  https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md
-## Day 22 : March 1
+## Day 22: March 1
  implement Exceptional Handling in java
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
-## Day 23 : March 1
+## Day 23: March 1
  * Start learning  ESP8266 NodeMCU on Ardino
  * Introductoin  to Cisco Packet Tracer : Installation & Setup of Packet Tracer tool on Windows
   https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
 
-## Day 24 : March 1
+## Day 24: March 1
 created a new repo and try to explore more about  os level virtualization
  https://github.com/BhardwajAman199/Vagrant
 
 ## Day 25 : March 1
  today I learned how to create an AWS EC2 Snapshot and Restore from Snapshot @awscloud
 
-## Day 26 : March 1
+## Day 26: March 1
  Today I haven't done something new because I am travelling whole day  but  revise AWS fundamental & intro to thread in java 
 
-## Day 27 : March 1
+## Day 27: March 1
  work on Custom/User Define Exception in java 
   https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
 
- ## Day 28 : March 1
+ ## Day 28: March 1
  Try to implement some program on Multithreading in Java 
   https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
-## Day 29 : March 1
+## Day 29: March 1
 practice some recursive problem in python
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/Recursion
 ## Day 30 : March 1
@@ -117,13 +117,13 @@ https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function
 ## Day 31 : March 1 
 Recursion &  anonymous function  in python  , explore little deep in file handling  , intro to Regular Expressions in Python
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/File%20Handling
-## Day 32 : March 1
+## Day 32: March 1
 bytes() , bytearray() and range function in python  
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/inbuit%20function
-## Day 33 : March 1
+## Day 33: March 1
 learn about :- trusty64,xenial64,centos/7 @virtualbox , To access HTTP Server from the vagrant machine by port forwarding 
 https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
-## Day 34 : March 1
+## Day 34: March 1
 Introduction to Docker , Vagrant port forwarding 
 ## Day 35 : March 1 
  SDLC in Software Engineering And Project Management ,  try to build private network in vagrant https://github.com/BhardwajAman199/Vagrant
@@ -136,7 +136,7 @@ My first box has release on @HashiCorp Vagrant cloud https://app.vagrantup.com/b
  Revise some topic in java like :- Multithreading , package and successfully host web page publically through vagrant 
  ## Day 39 : March 1 
  today I learn Introduction to CCMP , BSS , OSS in cloud computing 
- ## Day 40 : March 1
+ ## Day 40: March 1
  start learning string in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
  ## Day 41 : March 1
@@ -145,28 +145,28 @@ My first box has release on @HashiCorp Vagrant cloud https://app.vagrantup.com/b
  ## Day 42 : March 1 
  day 2 with inbuilt function for string in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
-  ## Day 43 : March 1
+  ## Day 43: March 1
  Try to implement  Runnable interface in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
-  ## Day 44 : March 1
+  ## Day 44: March 1
  starts learning oops  in python 
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
  ## Day 45: March 1
  Day 2 of learning oops in python : self keyword
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
- ## Day 46 : March 1 
+ ## Day 46: March 1 
  little deep in multithreading concept in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
- ## Day 47 : March 1
+ ## Day 47: March 1
  Implement join function with multithreading  in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
- ## Day 48 : March 1 
+ ## Day 48: March 1 
  Finished multithreading & a new  starting with  Wrapper class in java
- ## Day 49 : March 1 
+ ## Day 49: March 1 
  autoboxing & unboxing completed in java https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Wrapper%20class
- ## Day 50 : March 1 
+ ## Day 50: March 1 
  implement some programs using inbuilt as well as user-defined function https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Assignment
- ## Day 51 : March 1 
+ ## Day 51: March 1 
  revise the concept of inheritance and multithreading in java https://github.com/BhardwajAman199/OOPs-with-JAVA
  ## Day 52 of 100DaysOfCode 
  implement a program with ArrayIndexOutOfBoundsException in java https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Lab%20Experiment/lab7/pro1.java
