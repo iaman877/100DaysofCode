@@ -1,6 +1,6 @@
 # 100DaysofCode
 
-## Day 1: starting  Feb 9
+## Day 1:  Feb 9
 Learning concepts in java and python as well.
 learned about loops in python
 
@@ -41,46 +41,46 @@ Today I learned Pig Latin problem in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Pig%20Latin.java
 tried to create AWS Linux instance and host a web page on it.
 
-## Day 11 Done...100DaysOfCode 
+## Day 11 Feb 19
 Today I learned some interesting fact about main( ) and constructor in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Self%20Assignment%201
 Successfully hosted a web page on AWS Linux instance Smiling face with halo
 
-## Day 12 Done...
+## Day 12 Feb 20
 Today I learned how to implement packages in java
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/README.md  
 
-## Day 13 done.. 
+## Day 13 Feb 21 
 Introductoin  to  Vagrant Cloud : Installation & Setup of Vagrant Cloud on Windows. Learnt about provider, Vagrantfile, Boxes and installing apache on VM ,Will be starting java on @hackerrank soon
 
-## Day 14 
+## Day 14 Feb 22
 Starts learning array in java 
 https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Array
 
 
-## Day 15 
+## Day 15 Feb 23
 try to learn something which is on boom,
 Starts practicing python at @replit 
 and learning RedHat 8 & Python3 by @vimaldaga13
 
-## Day 16 of 100DaysOfCode
+## Day 16 Feb 24
 try to code in python and earn the first star @hackerrank
 
-## Day 17 Done of 100DaysOfCode
+## Day 17 Feb 25
 Successfully completed  Introduction to AWS Lambda at @qwiklabs
-## Day 18 Done of 100DaysOfCode
+## Day 18 Feb 26
 today I learn set & tuple in python 
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/set
-https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/tuple
-## Day 19 Done of 100DaysOfCode
+
+## Day 19 Feb 27
  throw and throws in Java
  received project based intern letter @i3indya
 
-## Day 20 Done of 100DaysOfCode
+## Day 20 Feb 28
  learn File Handling in python 
  https://github.com/BhardwajAman199/Programming-with-Python/blob/master/File%20Handling/file.md
 
-## Day 21 Done 100DaysOfCode
+## Day 21 Feb 29
  learn Exceptional Handling in python 
  https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md
 ## Day 22 Done 100DaysOfCode
