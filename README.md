@@ -83,90 +83,90 @@ https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20St
 ## Day 21 Feb 29
  learn Exceptional Handling in python 
  https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md
-## Day 22 Done 100DaysOfCode
+## Day 22 : March 1
  implement Exceptional Handling in java
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
-## Day 23 Done 100DaysOfCode
+## Day 23 : March 1
  * Start learning  ESP8266 NodeMCU on Ardino
  * Introductoin  to Cisco Packet Tracer : Installation & Setup of Packet Tracer tool on Windows
   https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
 
-## Day 24 Done 100DaysOfCode
+## Day 24 : March 1
 created a new repo and try to explore more about  os level virtualization
  https://github.com/BhardwajAman199/Vagrant
 
-## Day 25 Done 100DaysOfCode
+## Day 25 : March 1
  today I learned how to create an AWS EC2 Snapshot and Restore from Snapshot @awscloud
 
-## Day 26 Done 100DaysOfCode 
+## Day 26 : March 1
  Today I haven't done something new because I am travelling whole day  but  revise AWS fundamental & intro to thread in java 
 
-## Day 27 Done 100DaysOfCode
+## Day 27 : March 1
  work on Custom/User Define Exception in java 
   https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
 
- ## Day 28 Done 100DaysOfCode
+ ## Day 28 : March 1
  Try to implement some program on Multithreading in Java 
   https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
-## Day 29 of 100DaysOfCode 
+## Day 29 : March 1
 practice some recursive problem in python
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/Recursion
-## Day 30 of 100DaysOfCode
+## Day 30 : March 1
  Recursion &  anonymous function  in python 
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function 
-## Day 31 of 100DaysOfCode 
+## Day 31 : March 1 
 Recursion &  anonymous function  in python  , explore little deep in file handling  , intro to Regular Expressions in Python
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/File%20Handling
-## Day 32 of #100DaysOfCode 
+## Day 32 : March 1
 bytes() , bytearray() and range function in python  
 https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/inbuit%20function
-## Day 33 of #100DaysOfCode 
+## Day 33 : March 1
 learn about :- trusty64,xenial64,centos/7 @virtualbox , To access HTTP Server from the vagrant machine by port forwarding 
 https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
-## Day 34 of #100DaysOfCode 
+## Day 34 : March 1
 Introduction to Docker , Vagrant port forwarding 
-## Day 35 of #100DaysOfCode 
+## Day 35 : March 1 
  SDLC in Software Engineering And Project Management ,  try to build private network in vagrant https://github.com/BhardwajAman199/Vagrant
-## Day 36 of #100DaysOfCode 
+## Day 36 : March 1 
  Cost Estimation & SDLC in Software Engineering And Project Management in detail  , Done some problems on Multithreading topic
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
-## Day 37 of consistency and dedication #100DaysOfCode 
+## Day 37 : March 1
 My first box has release on @HashiCorp Vagrant cloud https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox
-## Day 38 of #100DaysOfCode  
+## Day 38: March 1 
  Revise some topic in java like :- Multithreading , package and successfully host web page publically through vagrant 
- ## Day 39 of #100DaysOfCode  
+ ## Day 39 : March 1 
  today I learn Introduction to CCMP , BSS , OSS in cloud computing 
- ## Day 40 of #100DaysOfCode 
+ ## Day 40 : March 1
  start learning string in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
- ## Day 41 of #100DaysOfCode 
+ ## Day 41 : March 1
  Cover some inbuilt function for string in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
- ## Day 42 of #100DaysOfCode 
+ ## Day 42 : March 1 
  day 2 with inbuilt function for string in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/String
-  ## Day 43 of 100DaysOfCode 
+  ## Day 43 : March 1
  Try to implement  Runnable interface in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
-  ## Day 44 of 100DaysOfCode 
+  ## Day 44 : March 1
  starts learning oops  in python 
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
- ## Day 45 of 100DaysOfCode 
+ ## Day 45: March 1
  Day 2 of learning oops in python : self keyword
  https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Constructor
- ## Day 46 of 100DaysOfCode 
+ ## Day 46 : March 1 
  little deep in multithreading concept in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
- ## Day 47 of 100DaysOfCode 
+ ## Day 47 : March 1
  Implement join function with multithreading  in java 
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading/by%20%20Runnable
- ## Day 48 of 100DaysOfCode 
+ ## Day 48 : March 1 
  Finished multithreading & a new  starting with  Wrapper class in java
- ## Day 49 of 100DaysOfCode  
+ ## Day 49 : March 1 
  autoboxing & unboxing completed in java https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Wrapper%20class
- ## Day 50 of 100DaysOfCode 
+ ## Day 50 : March 1 
  implement some programs using inbuilt as well as user-defined function https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Assignment
- ## Day 51 of 100DaysOfCode 
+ ## Day 51 : March 1 
  revise the concept of inheritance and multithreading in java https://github.com/BhardwajAman199/OOPs-with-JAVA
  ## Day 52 of 100DaysOfCode 
  implement a program with ArrayIndexOutOfBoundsException in java https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Lab%20Experiment/lab7/pro1.java
