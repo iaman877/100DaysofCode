@@ -172,67 +172,67 @@ My first box has release on @HashiCorp Vagrant cloud https://app.vagrantup.com/b
  implement a program with ArrayIndexOutOfBoundsException in java https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Lab%20Experiment/lab7/pro1.java
 ## Day 53: April 1
 I upload  my first videos on Vagrant at https://youtu.be/8wqpsVttoQw
-## Day 54 of 100DaysOfCode
+## Day 54: April 2
 Today I successfully deploy AWS load balancer https://youtu.be/h63sHgnb1b4 
-## Day 55 of 100DaysOfCode
+## Day 55: April 3
 Done some exceptional handeling question in java  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab7
-## Day 56 of 100DaysOfCode
+## Day 56: April 4
 Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?hr_r=1
-## Day 57 of 100DaysOfCode
+## Day 57: April 5
 Controlling LED with a Button on on arduino. I will come up with patterns of blinking.
-## Day 58 of 100DaysOfCode
+## Day 58: April 6
 Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?hr_r=1
-## Day 59 of 100DaysOfCode
+## Day 59: April 7
 Just earned the Bronze Badge for C++ on HackerRank! http://hr.gs/bcedd
-## Day 60 of 100DaysOfCode 
+## Day 60: April 8 
 Revise String function in java and Deploy our own box on Vagrant Cloud  https://youtu.be/VFuO559TF7U
-## Day 61 of 100DaysOfCode 
+## Day 61: April 9
 Just earned my 2nd star on the C++ Badge on HackerRank! http://hr.gs/1v2svg1
-## Day 62 of 100DaysOfCode
+## Day 62: April 10
 Work on some app dev with  @MITAppInventor 
-## Day 63 of 100DaysOfCode
+## Day 63: April 11
 Try to code on Strings Handling and Wrapper Class in java https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab8
-## Day 64 of 100DaysOfCode 
+## Day 64: April 12
 Controlling LED with loops and different time delay  
-## Day 65 of 100DaysOfCode
+## Day 65: April 13
 Just earned the Bronze Badge for Sql on HackerRank! http://hr.gs/1vpu9q7
-## Day 66 of 100DaysOfCode
+## Day 66: April 14
 today I start Coding on 30 Days of Code at hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 67 of 100DaysOfCode
+## Day 67: April 15
 Just earned the Bronze Badge for 30 Days of Code on HackerRank! http://hr.gs/1w5lu6j
-## Day 68 of 100DaysOfCode
+## Day 68: April 16
 Successfully made my first game by MIT App inventor https://twitter.com/iaman877/status/1251028244154834945
-## Day 69 of 100DaysOfCode
+## Day 69: April 17
 Just solved Day 3: Intro to Conditional Statements on @HackerRank. http://hr.gs/bdefab#programming
-## Day 70 of  100DaysOfCode
+## Day 70: April 18
 Just solved Day 4: Class vs. Instance on @HackerRank.  http://hr.gs/70bo#programming
-## Day 71 of  100DaysOfCode
+## Day 71: April 19
 Solve some C problem on hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 72 of 100DaysOfCode
+## Day 72: April 20
 Just earned my 2nd star on the 30 Days of Code Badge on HackerRank! http://hr.gs/1x10jjq
-## Day 73 of 100DaysOfCode
+## Day 73: April 21
 Solve some C++  problem on hackerRank http://hr.gs/70d7#programming
-## Day 74 of  100DaysOfCode
+## Day 74: April 22
 Solve a problems on Dictionaries and Maps on @HackerRank.  https://www.hackerrank.com/bhardwajaman877
-## Day 75 of 100DaysOfCode
+## Day 75: April 23
 On the way of real-time Mobile Apps Development to connect GoogleFirebase by MITAppInventor https://twitter.com/iaman877/status/1253691715329851398
-## Day 76 of 100DaysOfCode
+## Day 76: April 24
 Solve some C++  problem on hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 77 of 100DaysOfCode
+## Day 77: April 25
 Solved "hourglass sum" problem using 2D array on hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 78 of  100DaysOfCode
+## Day 78: April 26
 Solved Day 12 problem on Inheritance in Java https://www.hackerrank.com/bhardwajaman877
-## Day 79  of 100DaysOfCode
+## Day 79: April 27
 Introduction to JDBC in java and facing to much problem to setup. and solve Day 13 problem on abstract class at hackerRank
 https://www.hackerrank.com/bhardwajaman877
-## Day 80  of 100DaysOfCode
+## Day 80: April 28
 Just earned the Silver Badge for 30 Days of Code on HackerRank
 http://hr.gs/1yqo69b
-## Day 81  of 100DaysOfCode
+## Day 81: April 29
 Implementation  of Link List in java at hackerRank https://www.hackerrank.com/bhardwajaman877
-## Day 82 of 100DaysOfCode 
+## Day 82: April 30
 Successfully made a real-time app to connect #GoogleFirebase by MITAppInventor https://twitter.com/iaman877/status/1256206817711063040
-## Day 83 of 100DaysOfCode
+## Day 83: May 1
 Done Exception handeling question on HackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 84 of 100DaysOfCode
 Solved stack and queue problem at HackerRank https://www.hackerrank.com/bhardwajaman877
