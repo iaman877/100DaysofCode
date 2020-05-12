@@ -252,3 +252,5 @@ Learned about Amazon Machine Image and solved Linked Lists challenge in java at 
 Revise IOT Concepts and tried to do something Automated https://twitter.com/iaman877/status/1259352459790647297
 ## Day 92: May 11 
 Studied about Robotic Process Automation & Solve Nested Logic challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
+## Day 93: May 12
+Today I solved Testing Challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
