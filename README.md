@@ -254,3 +254,5 @@ Revise IOT Concepts and tried to do something Automated https://twitter.com/iama
 Studied about Robotic Process Automation & Solve Nested Logic challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 93: May 12
 Today I solved Testing Challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
+## Day 94: May 13
+Today I solved RegEx, Patterns, and Intro to Databases Challenge at HackerRank & studied about AWS Lex  https://www.hackerrank.com/bhardwajaman877
