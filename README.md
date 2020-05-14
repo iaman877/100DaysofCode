@@ -8,7 +8,9 @@ learned about loops in python
 Learned about "List" Data Structure in Python 
 
 ## Day 3: Feb 11
-Java Final variable, method & class and learned types of Inheritance in java : [Link] (https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Inheritance/Hierarchical%20inheritance.java)
+Java Final variable, method & class and learned types of Inheritance in java : [Link] (https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Inheritance/Hierarchical%20inheritance.java).
+Link for Repository : [Smart Contracts](https://github.com/OjasviChauhan/Smart-Contracts).
+
 ## Day 4: Feb 12
 learned about java abstract class 
 https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Abstract/Program1.java
