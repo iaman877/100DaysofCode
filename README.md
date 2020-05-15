@@ -23,26 +23,25 @@ learned: how to implement Interface in java
 
 ## Day 6:  Feb 14
 practice some program on Interface in java
-https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program3.java
+: [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program3.java)
 
 ## Day 7:  Feb 15
 practice some program in java,
 Tried to handle error while declaring child class object of a non-abstract class
-https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Abstract/program2.java
+: [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Abstract/program2.java)
 
 
 ## Day 8:  Feb 16
 Starts learn Exception Handling in Python 
-https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/Program1.py
+: [Link](https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/Program1.py)
 
 ## Day 9:  Feb 17
 revise and implement 'finally' in exception handling in Python 
- https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/Program1.py
+ : [Link](https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/Program1.py)
 
 ## Day 10:  Feb 18
-Today I learned Pig Latin problem in java
-https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Pig%20Latin.java
-tried to create AWS Linux instance and host a web page on it.
+Today I learned Pig Latin problem in java &  tried to create AWS Linux instance and host a web page on it.
+: [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Pig%20Latin.java)
 
 ## Day 11: Feb 19
 Today I learned some interesting fact about main( ) and constructor in java
