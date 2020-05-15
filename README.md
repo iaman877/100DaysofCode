@@ -231,30 +231,30 @@ Introduction to JDBC in java and facing to much problem to setup. and solve Day 
 ## Day 80: April 29
 Just earned the Silver Badge for 30 Days of Code on HackerRank : [Link](http://hr.gs/1yqo69b)
 ## Day 81: April 30
-Implementation  of Link List in java at hackerRank https://www.hackerrank.com/bhardwajaman877
+Implementation  of Link List in java at hackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 82: May 1
-Successfully made a real-time app to connect #GoogleFirebase by MITAppInventor https://twitter.com/iaman877/status/1256206817711063040
+Successfully made a real-time app to connect #GoogleFirebase by MITAppInventor : [Link](https://twitter.com/iaman877/status/1256206817711063040)
 ## Day 83: May 2
-Done Exception handeling question on HackerRank https://www.hackerrank.com/bhardwajaman877
+Done Exception handeling question on HackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 84: May 3
-Solved stack and queue problem at HackerRank https://www.hackerrank.com/bhardwajaman877
+Solved stack and queue problem at HackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 85: May 4
-Solved Interface problem at HackerRank https://www.hackerrank.com/bhardwajaman877
+Solved Interface problem at HackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 86: May 5
-Solved Sorting Challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
+Solved Sorting Challenge at HackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 87: May 6
-Just earned my 4th star on the 30 Days of Code Badge on HackerRank! http://hr.gs/dbfcf
+Just earned my 4th star on the 30 Days of Code Badge on HackerRank! : [Link](http://hr.gs/dbfcf)
 ## Day 88: May 7
-Solved Binary Search tree challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
+Solved Binary Search tree challenge at HackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 89: May 8
-Solve BST Level-Order Traversal challenge and worked on Servlets in java  https://www.hackerrank.com/bhardwajaman877
+Solve BST Level-Order Traversal challenge and worked on Servlets in java  : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 90: May 9
-Learned about Amazon Machine Image and solved Linked Lists challenge in java at hackerRank https://www.hackerrank.com/bhardwajaman877
+Learned about Amazon Machine Image and solved Linked Lists challenge in java at hackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 91: May 10 
-Revise IOT Concepts and tried to do something Automated https://twitter.com/iaman877/status/1259352459790647297
+Revise IOT Concepts and tried to do something Automated : [Link](https://twitter.com/iaman877/status/1259352459790647297)
 ## Day 92: May 11 
-Studied about Robotic Process Automation & Solve Nested Logic challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
+Studied about Robotic Process Automation & Solve Nested Logic challenge at HackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 93: May 12
-Today I solved Testing Challenge at HackerRank https://www.hackerrank.com/bhardwajaman877
+Today I solved Testing Challenge at HackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 94: May 13
-Today I solved RegEx, Patterns, and Intro to Databases Challenge at HackerRank & studied about AWS Lex  https://www.hackerrank.com/bhardwajaman877
+Today I solved RegEx, Patterns, and Intro to Databases Challenge at HackerRank & studied about AWS Lex  : [Link](https://www.hackerrank.com/bhardwajaman877)
