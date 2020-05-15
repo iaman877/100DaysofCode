@@ -198,39 +198,38 @@ Try to code on Strings Handling and Wrapper Class in java : [Link](https://githu
 ## Day 64: April 13
 Controlling LED with loops and different time delay  
 ## Day 65: April 14
-Just earned the Bronze Badge for Sql on HackerRank! http://hr.gs/1vpu9q7
+Just earned the Bronze Badge for Sql on HackerRank! : [Link](http://hr.gs/1vpu9q7)
 ## Day 66: April 15
-today I start Coding on 30 Days of Code at hackerRank https://www.hackerrank.com/bhardwajaman877
+today I start Coding on 30 Days of Code at hackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 67: April 16
-Just earned the Bronze Badge for 30 Days of Code on HackerRank! http://hr.gs/1w5lu6j
+Just earned the Bronze Badge for 30 Days of Code on HackerRank! : [Link](http://hr.gs/1w5lu6j)
 ## Day 68: April 17
-Successfully made my first game by MIT App inventor https://twitter.com/iaman877/status/1251028244154834945
+Successfully made my first game by MIT App inventor : [Link](https://twitter.com/iaman877/status/1251028244154834945)
 ## Day 69: April 18
-Just solved Day 3: Intro to Conditional Statements on @HackerRank. http://hr.gs/bdefab#programming
+Just solved Day 3: Intro to Conditional Statements on HackerRank. : [Link](http://hr.gs/bdefab#programming)
 ## Day 70: April 19
-Just solved Day 4: Class vs. Instance on @HackerRank.  http://hr.gs/70bo#programming
+Just solved Day 4: Class vs. Instance on HackerRank.  : [Link](http://hr.gs/70bo#programming)
 ## Day 71: April 20
-Solve some C problem on hackerRank https://www.hackerrank.com/bhardwajaman877
+Solve some C problem on hackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 72: April 21
-Just earned my 2nd star on the 30 Days of Code Badge on HackerRank! http://hr.gs/1x10jjq
+Just earned my 2nd star on the 30 Days of Code Badge on HackerRank! : [Link](http://hr.gs/1x10jjq)
 ## Day 73: April 22
-Solve some C++  problem on hackerRank http://hr.gs/70d7#programming
+Solve some C++  problem on hackerRank : [Link](http://hr.gs/70d7#programming)
 ## Day 74: April 23
-Solve a problems on Dictionaries and Maps on @HackerRank.  https://www.hackerrank.com/bhardwajaman877
+Solve a problems on Dictionaries and Maps on HackerRank.  : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 75: April 24
-On the way of real-time Mobile Apps Development to connect GoogleFirebase by MITAppInventor https://twitter.com/iaman877/status/1253691715329851398
+On the way of real-time Mobile Apps Development to connect GoogleFirebase by MITAppInventor : [Link](https://twitter.com/iaman877/status/1253691715329851398)
 ## Day 76: April 25
-Solve some C++  problem on hackerRank https://www.hackerrank.com/bhardwajaman877
+Solve some C++  problem on hackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 77: April 26
-Solved "hourglass sum" problem using 2D array on hackerRank https://www.hackerrank.com/bhardwajaman877
+Solved "hourglass sum" problem using 2D array on hackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 78: April 27
-Solved Day 12 problem on Inheritance in Java https://www.hackerrank.com/bhardwajaman877
+Solved Day 12 problem on Inheritance in Java : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 79: April 28
 Introduction to JDBC in java and facing to much problem to setup. and solve Day 13 problem on abstract class at hackerRank
-https://www.hackerrank.com/bhardwajaman877
+: [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 80: April 29
-Just earned the Silver Badge for 30 Days of Code on HackerRank
-http://hr.gs/1yqo69b
+Just earned the Silver Badge for 30 Days of Code on HackerRank : [Link](http://hr.gs/1yqo69b)
 ## Day 81: April 30
 Implementation  of Link List in java at hackerRank https://www.hackerrank.com/bhardwajaman877
 ## Day 82: May 1
