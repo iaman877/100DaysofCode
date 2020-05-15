@@ -84,18 +84,18 @@ today I learn set & tuple in python
 
 ## Day 21: March 1
  learn Exceptional Handling in python 
- https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md
+: [Link](https://github.com/BhardwajAman199/Programming-with-Python/blob/master/Exceptional%20handling/except.md)
 ## Day 22: March 2
  implement Exceptional Handling in java
- https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
+: [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING)
 ## Day 23: March 3
  * Start learning  ESP8266 NodeMCU on Ardino
  * Introductoin  to Cisco Packet Tracer : Installation & Setup of Packet Tracer tool on Windows
-  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
+  : [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING)
 
 ## Day 24: March 4
 created a new repo and try to explore more about  os level virtualization
- https://github.com/BhardwajAman199/Vagrant
+ : [Link](https://github.com/BhardwajAman199/Vagrant)
 
 ## Day 25 : March 5
  today I learned how to create an AWS EC2 Snapshot and Restore from Snapshot @awscloud
@@ -105,30 +105,31 @@ created a new repo and try to explore more about  os level virtualization
 
 ## Day 27: March 7
  work on Custom/User Define Exception in java 
-  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING
+: [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/EXCEPTION%20HANDLING)
 
  ## Day 28: March 8
  Try to implement some program on Multithreading in Java 
-  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
+ : [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading)
 ## Day 29: March 9
 practice some recursive problem in python
- https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/Recursion
+: [Link](https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/Recursion)
 ## Day 30 : March 10
  Recursion &  anonymous function  in python 
-https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function 
+: [Link](https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function)
 ## Day 31 : March 11
 Recursion &  anonymous function  in python  , explore little deep in file handling  , intro to Regular Expressions in Python
-https://github.com/BhardwajAman199/Programming-with-Python/tree/master/File%20Handling
+: [Link](https://github.com/BhardwajAman199/Programming-with-Python/tree/master/File%20Handling)
 ## Day 32: March 12
 bytes() , bytearray() and range function in python  
-https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/inbuit%20function
+: [Link](https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Function/inbuit%20function)
 ## Day 33: March 13
 learn about :- trusty64,xenial64,centos/7 @virtualbox , To access HTTP Server from the vagrant machine by port forwarding 
-https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md
+: [Link](https://github.com/BhardwajAman199/Vagrant/blob/master/Project3.md)
 ## Day 34: March 14
 Introduction to Docker , Vagrant port forwarding 
 ## Day 35 : March 15 
- SDLC in Software Engineering And Project Management ,  try to build private network in vagrant https://github.com/BhardwajAman199/Vagrant
+ SDLC in Software Engineering And Project Management ,  try to build private network in vagrant 
+ : [Link](https://github.com/BhardwajAman199/Vagrant)
 ## Day 36 : March 16 
  Cost Estimation & SDLC in Software Engineering And Project Management in detail  , Done some problems on Multithreading topic
  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading
