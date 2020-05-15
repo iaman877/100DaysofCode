@@ -134,7 +134,7 @@ Introduction to Docker , Vagrant port forwarding
  Cost Estimation & SDLC in Software Engineering And Project Management in detail  , Done some problems on Multithreading topic
 : [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Multithreading)
 ## Day 37 : March 17
-My first box has release on @HashiCorp Vagrant cloud https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox
+My first box has release on @HashiCorp Vagrant cloud : [Link](https://app.vagrantup.com/bhardwaj_aman/boxes/virtualbox)
 ## Day 38: March 18
  Revise some topic in java like :- Multithreading , package and successfully host web page publically through vagrant 
  ## Day 39: March 19 
@@ -170,31 +170,31 @@ My first box has release on @HashiCorp Vagrant cloud https://app.vagrantup.com/b
  ## Day 50: March 30
  implement some programs using inbuilt as well as user-defined function : [Link](https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Assignment)
  ## Day 51: March 31 
- revise the concept of inheritance and multithreading in java https://github.com/BhardwajAman199/OOPs-with-JAVA
+ revise the concept of inheritance and multithreading in java : [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA)
  ## Day 52: April 1 
- implement a program with ArrayIndexOutOfBoundsException in java https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Lab%20Experiment/lab7/pro1.java
+ implement a program with ArrayIndexOutOfBoundsException in java : [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Lab%20Experiment/lab7/pro1.java)
 ## Day 53: April 2
-I upload  my first videos on Vagrant at https://youtu.be/8wqpsVttoQw
+I upload  my first videos on Vagrant at : [Link](https://youtu.be/8wqpsVttoQw)
 ## Day 54: April 3
-Today I successfully deploy AWS load balancer https://youtu.be/h63sHgnb1b4 
+Today I successfully deploy AWS load balancer : [Link](https://youtu.be/h63sHgnb1b4)
 ## Day 55: April 4
-Done some exceptional handeling question in java  https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab7
+Done some exceptional handeling question in java  : [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab7)
 ## Day 56: April 5
-Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?hr_r=1
+Solved some C problems on Hackerrank : [Link](https://www.hackerrank.com/bhardwajaman877?hr_r=1)
 ## Day 57: April 6
 Controlling LED with a Button on on arduino. I will come up with patterns of blinking.
 ## Day 58: April 7
-Solved some C problems on Hackerrank https://www.hackerrank.com/bhardwajaman877?hr_r=1
+Solved some C problems on Hackerrank : [Link](https://www.hackerrank.com/bhardwajaman877?hr_r=1)
 ## Day 59: April 8
-Just earned the Bronze Badge for C++ on HackerRank! http://hr.gs/bcedd
+Just earned the Bronze Badge for C++ on HackerRank! : [Link](http://hr.gs/bcedd)
 ## Day 60: April 9 
-Revise String function in java and Deploy our own box on Vagrant Cloud  https://youtu.be/VFuO559TF7U
+Revise String function in java and Deploy our own box on Vagrant Cloud  : [Link](https://youtu.be/VFuO559TF7U)
 ## Day 61: April 10
-Just earned my 2nd star on the C++ Badge on HackerRank! http://hr.gs/1v2svg1
+Just earned my 2nd star on the C++ Badge on HackerRank! : [Link](http://hr.gs/1v2svg1)
 ## Day 62: April 11
-Work on some app dev with  @MITAppInventor 
+Work on some app dev with  MITAppInventor 
 ## Day 63: April 12
-Try to code on Strings Handling and Wrapper Class in java https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab8
+Try to code on Strings Handling and Wrapper Class in java : [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/tree/master/Lab%20Experiment/lab8)
 ## Day 64: April 13
 Controlling LED with loops and different time delay  
 ## Day 65: April 14
