@@ -19,7 +19,7 @@ learned about java abstract class & learned Introduction to Amazon Simple Storag
 
 ## Day 5: Feb 13
 learned: how to implement Interface in java
-https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program1.java
+: [Link](https://github.com/BhardwajAman199/OOPs-with-JAVA/blob/master/Keyword/Interface/Program1.java)
 
 ## Day 6:  Feb 14
 practice some program on Interface in java
