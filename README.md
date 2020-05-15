@@ -258,3 +258,5 @@ Studied about Robotic Process Automation & Solve Nested Logic challenge at Hacke
 Today I solved Testing Challenge at HackerRank : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 94: May 13
 Today I solved RegEx, Patterns, and Intro to Databases Challenge at HackerRank & studied about AWS Lex  : [Link](https://www.hackerrank.com/bhardwajaman877)
+## Day 95: May 14 2020
+Just earned the Gold Badge for 30 Days of Code on HackerRank : [Link](https://www.hackerrank.com/iaman877?badge=30-days-of-code&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
