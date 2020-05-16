@@ -264,4 +264,4 @@ Just earned the Gold Badge for 30 Days of Code on HackerRank : [Link](https://ww
 Just earned the 2nd star in Python on HackerRank & implement roles and user in AWS IAM : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 97: May 16 2020
 Solved all Introduction challenges in Python on HackerRank, In Progress ofcompleting "AWS Fundamentals: Addressing Security Risk"
- : [Link](http://hr.gs/luy0ny #programming)
+ : [Link](http://hr.gs/luy0ny)
