@@ -262,3 +262,6 @@ Today I solved RegEx, Patterns, and Intro to Databases Challenge at HackerRank &
 Just earned the Gold Badge for 30 Days of Code on HackerRank : [Link](https://www.hackerrank.com/iaman877?badge=30-days-of-code&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 ## Day 96: May 15 2020
 Just earned the 2nd star in Python on HackerRank & implement roles and user in AWS IAM : [Link](https://www.hackerrank.com/bhardwajaman877)
+## Day 97: May 16 2020
+Solved all Introduction challenges in Python on HackerRank, In Progress ofcompleting "AWS Fundamentals: Addressing Security Risk"
+ : [Link](http://hr.gs/luy0ny #programming)
