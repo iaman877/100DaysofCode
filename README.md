@@ -66,10 +66,10 @@ Starts practicing python at replit
 and learning RedHat 8 & Python3 by vimaldaga13
 
 ## Day 16: Feb 25
-try to code in python and earn the first star @hackerrank
+try to code in python and earn the first star hackerrank
 
 ## Day 17: Feb 26
-Successfully completed  Introduction to AWS Lambda at @qwiklabs
+Successfully completed  Introduction to AWS Lambda at qwiklabs
 ## Day 18: Feb 27
 today I learn set & tuple in python 
 : [Link](https://github.com/BhardwajAman199/Programming-with-Python/tree/master/Data%20Structure/set)
@@ -263,5 +263,5 @@ Just earned the Gold Badge for 30 Days of Code on HackerRank : [Link](https://ww
 ## Day 96: May 15 2020
 Just earned the 2nd star in Python on HackerRank & implement roles and user in AWS IAM : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 97: May 16 2020
-Solved all Introduction challenges in Python on HackerRank, In Progress ofcompleting "AWS Fundamentals: Addressing Security Risk"
- : [Link](http://hr.gs/luy0ny#programming)
+Solved all Introduction challenges in Python on HackerRank & In Progress ofcompleting "AWS Fundamentals: Addressing Security Risk"
+ : [Link](https://www.hackerrank.com/bhardwajaman877)
