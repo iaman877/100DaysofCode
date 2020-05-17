@@ -265,3 +265,5 @@ Just earned the 2nd star in Python on HackerRank & implement roles and user in A
 ## Day 97: May 16 2020
 Solved all Introduction challenges in Python on HackerRank & In Progress ofcompleting "AWS Fundamentals: Addressing Security Risk"
  : [Link](https://www.hackerrank.com/bhardwajaman877)
+ ## Day 98: May 17 2020
+ learn about cost and Security management in AWS & also learn about tags,Document Object Model in HTML : [Link](https://github.com/iaman877/HTML).
