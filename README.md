@@ -269,3 +269,6 @@ Solved all Introduction challenges in Python on HackerRank & In Progress ofcompl
  learnt about cost and Security management in AWS & also studied -> tags,Document Object Model in HTML : [Link](https://github.com/iaman877/HTML).
  ## Day 99: May 18 2020
 Learnt about Amazon DynamoDB & learnt about Images and hyperlinks in HTML :[Link](https://github.com/iaman877/HTML).
+## Day 100: May 19 2020
+Learnt about Shared Responsibility Model and Compliances in AWS.  
+
