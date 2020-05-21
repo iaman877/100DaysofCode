@@ -1,4 +1,4 @@
-# 100DaysofCode
+# 301DaysofCode
 
 ## Day 1:  Feb 9 2020
 Learning concepts in java and python as well.
