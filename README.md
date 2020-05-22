@@ -259,7 +259,7 @@ Today I solved Testing Challenge at HackerRank : [Link](https://www.hackerrank.c
 ## Day 94: May 13 2020
 Today I solved RegEx, Patterns, and Intro to Databases Challenge at HackerRank & studied about AWS Lex  : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 95: May 14 2020
-Just earned the Gold Badge for 30 Days of Code on HackerRank : [Link](https://www.hackerrank.com/iaman877?badge=30-days-of-code&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
+Just earned the Gold Badgeibi for 30 Days of Code on HackerRank : [Link](https://www.hackerrank.com/iaman877?badge=30-days-of-code&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share&social=linkedin)
 ## Day 96: May 15 2020
 Just earned the 2nd star in Python on HackerRank & implement roles and user in AWS IAM : [Link](https://www.hackerrank.com/bhardwajaman877)
 ## Day 97: May 16 2020
@@ -273,3 +273,5 @@ Learnt about Amazon DynamoDB & learnt about Images and hyperlinks in HTML :[Link
 Learnt about Shared Responsibility Model and Compliances in AWS.  
 ## Day 101-102: May 20-21, 2020
 Work on Images, video, Hyperlink, Multimedia and table in HTML :[Link](https://github.com/iaman877/HTML).
+## Day 103: May 22, 2020
+work on web acccessibility,validation, hosting of site and soon going to start with projects on HTML only.
