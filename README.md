@@ -276,4 +276,4 @@ Work on Images, video, Hyperlink, Multimedia and table in HTML :[Link](https://g
 ## Day 103: May 22, 2020
 work on web acccessibility,validation, hosting of site and soon going to start with projects on HTML only.
 ## Day 104: May 23, 2020
-Still revising HTML for a project and laern Encryption in Transit in AWS 
+Still revising HTML for a project and learn Encryption in Transit of Amazon Cloud. 
