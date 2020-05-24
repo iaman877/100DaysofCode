@@ -277,3 +277,5 @@ Work on Images, video, Hyperlink, Multimedia and table in HTML :[Link](https://g
 work on web acccessibility,validation, hosting of site and soon going to start with projects on HTML only.
 ## Day 104: May 23, 2020
 Still revising HTML for a project and learn Encryption in Transit of Amazon Cloud. 
+## Day 105: May 24, 2020
+Again Implement html concept like Paragraphs, Text Formatting,Element, Attribute,Image,Link,list and many more. :[Link](https://github.com/iaman877/HTML).
