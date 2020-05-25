@@ -280,4 +280,4 @@ Still revising HTML for a project and learn Encryption in Transit of Amazon Clou
 ## Day 105: May 24, 2020
 Again Implement html concept like Paragraphs, Text Formatting,Element, Attribute,Image,Link,list and many more. :[Link](https://github.com/iaman877/HTML).
 ## Day 106: May 25, 2020
-implement table, inline and block element, forms, html color, frames and  many more. :[Link](https://github.com/iaman877/HTML).
+implement table, inline and block element, forms, html color, frames and  many more in HTML :[Link](https://github.com/iaman877/HTML).
