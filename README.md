@@ -279,3 +279,5 @@ work on web acccessibility,validation, hosting of site and soon going to start w
 Still revising HTML for a project and learn Encryption in Transit of Amazon Cloud. 
 ## Day 105: May 24, 2020
 Again Implement html concept like Paragraphs, Text Formatting,Element, Attribute,Image,Link,list and many more. :[Link](https://github.com/iaman877/HTML).
+## Day 106: May 25, 2020
+implement table, inline and block element, forms, html color, frames and  many more. :[Link](https://github.com/iaman877/HTML).
