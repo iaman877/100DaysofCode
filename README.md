@@ -283,7 +283,7 @@ Again Implement html concept like Paragraphs, Text Formatting,Element, Attribute
 implement table, inline and block element, forms, html color, frames and  many more in HTML :[Link](https://github.com/iaman877/HTML).
 ## Day 107: May 26, 2020
 implement Content Models, header,nav,footer,article, section & aside,Structure many more in HTML5
-## Day 108- 111: May 27-May 29, 2020
+## Day 108- 110: May 27-May 29, 2020
 - [x] _May 27 2020_ learnt about Geolocation API, Canvas transformation in HTML5 & protection of compute resources in AWS 
 - [x] _May 28 2020_  Successfilly completed  Introduction to HTML5 course   :[Link](https://www.coursera.org/account/accomplishments/records/HB9D39S2QGLV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [x] _May 29 2020_  Successfilly completed  HTML Fundamentals course  :[Link](https://twitter.com/iaman877/status/1266285561406320642).
