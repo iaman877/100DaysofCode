@@ -286,4 +286,4 @@ implement Content Models, header,nav,footer,article, section & aside,Structure m
 ## Day 108- 111: May 27-May 29, 2020
 - [x] _May 27 2020_ learnt about Geolocation API, Canvas transformation in HTML5 & protection of compute resources in AWS 
 - [x] _May 28 2020_  Successfilly completed  Introduction to HTML5 course   :[Link](https://www.coursera.org/account/accomplishments/records/HB9D39S2QGLV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [x] _May 29 2020_  Successfilly completed  HTML Fundamentals course  :[Link] (https://twitter.com/iaman877/status/1266285561406320642)
+- [x] _May 29 2020_  Successfilly completed  HTML Fundamentals course  :[Link](https://twitter.com/iaman877/status/1266285561406320642).
