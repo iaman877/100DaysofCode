@@ -289,3 +289,6 @@ implement Content Models, header,nav,footer,article, section & aside,Structure m
 - [x] _May 29 2020_  Successfilly completed  HTML Fundamentals course  :[Link](https://twitter.com/iaman877/status/1266285561406320642).
 ## Day 111: May 30, 2020
 learn about Hybrid-Multi-Cloud from basic :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud)
+## Day 112: May 31, 2020
+Move 1 step ahead to Hybrid-Multi-Cloud specially in AWS  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud)
+
