@@ -291,4 +291,14 @@ implement Content Models, header,nav,footer,article, section & aside,Structure m
 learn about Hybrid-Multi-Cloud from basic :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud)
 ## Day 112: May 31, 2020
 Move 1 step ahead to Hybrid-Multi-Cloud specially in AWS  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud)
+## Day 113: June 1, 2020
+(1) CloudTrail -> 
+how to track events held on the AWS account using Cloud trail. 
+ (2) Different types of storage ->.AWS S3 and EBS. 
+    * Different type of storage which supports partitioning
+    * 2  types of block storage (1) Ephemeral (2)Persistent.
+    * add another volume or Hdd. 
+(3) Security groups/ firewall 
+    * intro of HTTP and SSH
+
 
