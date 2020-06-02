@@ -300,5 +300,11 @@ how to track events held on the AWS account using Cloud trail.
     * add another volume or Hdd. 
 (3) Security groups/ firewall 
     * intro of HTTP and SSH
-
-
+## Day 114: June 2, 2020
+* Introduction to JSON and how it used in Cloudtrail.
+* EC2 service is regional
+* S3 is Object storage which does not allow partition & we can not  mount.
+* How Dropbox uses S3 service in starting time.
+* correct syntax of URL link of S3 data.
+* Buckets are global.
+* Introduction to CloudFront & Edge locations.
