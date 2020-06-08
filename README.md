@@ -305,8 +305,6 @@ how to track events held on the AWS account using Cloud trail.
 ## Day 115-121: June 3-8, 2020
 - [x] _June 3 2020_  learn abput AWS CloudTrail | S3 | EBS Volume in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/1st%20june.md)
 - [x] _June 4 2020_  learn about JSON Format | Integrating S3 with Cloud Trail | Cloud Front in AWS  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/2nd%20june.md)
-- [x] _June 5 2020_  learn about  Cloudfront with CDN in AWS  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/4th%20june.md)
-- [x] _June 6 2020_  learn about limitations of CloudFront | Use case of Global Accelarator in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/5th%20june.md)
-- [x] _June 7  2020_ learn about Deploy your application/web page in docker (privately) | access web page outside | Snapshots helps in backup in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/6th%20june.md)
-- [x] _June 8  2020_ learn about Introduction to Docker :[Link](https://github.com/iaman877/Docker/blob/master/1.md)
+- [x] _June 5 2020_ learn about limitations of CloudFront | Use case of Global Accelarator in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/5th%20june.md)
+- [x] _June 6 2020_  learn about Introduction to Docker :[Link](https://github.com/iaman877/Docker/blob/master/1.md)
  
