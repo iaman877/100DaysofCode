@@ -302,7 +302,7 @@ how to track events held on the AWS account using Cloud trail.
     * intro of HTTP and SSH
 ## Day 114: June 2, 2020
 * Introduction to JSON and how it used in Cloudtrail, EC2 service is regional, S3 is Object storage which does not allow partition & we can not  mount., How Dropbox uses S3 service in starting time, correct syntax of URL link of S3 data, Buckets are global, Introduction to CloudFront & Edge locations.
-## Day 115-118: June 3-6, 2020
+## Day 115-121: June 3-9, 2020
 - [x] _June 3 2020_  learn abput AWS CloudTrail | S3 | EBS Volume in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/1st%20june.md)
 - [x] _June 4 2020_  learn about JSON Format | Integrating S3 with Cloud Trail | Cloud Front in AWS  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/2nd%20june.md)
 - [x] _June 5 2020_ learn about limitations of CloudFront | Use case of Global Accelarator in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/5th%20june.md)
