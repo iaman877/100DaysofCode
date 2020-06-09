@@ -306,7 +306,7 @@ how to track events held on the AWS account using Cloud trail.
 - [x] _June 3 2020_  learn abput AWS CloudTrail | S3 | EBS Volume in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/1st%20june.md)
 - [x] _June 4 2020_  learn about JSON Format | Integrating S3 with Cloud Trail | Cloud Front in AWS  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/2nd%20june.md)
 - [x] _June 5 2020_ learn about limitations of CloudFront | Use case of Global Accelarator in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/5th%20june.md)
-- [x] _June 6 2020_ 
- - [x] _June 7 2020_
- - [x] _June 8 2020_  learn about Introduction to Docker :[Link](https://github.com/iaman877/Docker/blob/master/1.md)
- - [x] _June 9 2020_   
+- [x] _June 6 2020_  Deploy your application/web page in docker (privately) | access web page outside | Snapshots helps in backup in AWS :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/6th%20june.md)
+ - [x] _June 7 2020_  learn about web acess from outside in docker  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/6th%20june.md)
+ - [x] _June 8 2020_  learn about Introduction to Docker  in redhat os :[Link](https://github.com/iaman877/Docker/blob/master/1.md)
+ - [x] _June 9 2020_  learn about log | matrix in redhat os :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/8th%20june.md)
