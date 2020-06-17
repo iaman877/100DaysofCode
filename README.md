@@ -310,7 +310,7 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _June 7 2020_  learn about web acess from outside in docker  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/6th%20june.md)
  - [x] _June 8 2020_  learn about Introduction to Docker  in redhat os :[Link](https://github.com/iaman877/Docker/blob/master/1.md)
  - [x] _June 9 2020_  learn about log | matrix in redhat os :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/8th%20june.md)
-## Day 122-121: June 10-9, 2020
+## Day 122-129: June 10-17, 2020
 - [x] _June 10 2020_  completed AWS EC2 training and certification with my repo :[Link](https://github.com/iaman877/AWS-training-and-certification/blob/master/Intro%20%20to%20Amazon%20EC2.md)
 - [x] _June 11 2020_   Start leraning terraform with AWS  :[Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/9.1th%20june.md)
 - [x] _June 12 2020_ : Terraform provisioners | Remote system using Terraform [Link](https://github.com/iaman877/Hybrid-Multi-Cloud/blob/master/9.2th%20june.md)
