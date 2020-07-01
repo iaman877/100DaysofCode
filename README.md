@@ -320,17 +320,17 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _June 16 2020_ :  Completed my 1st " Multi Hybrid Cloud" project:[Link](https://www.linkedin.com/feed/update/urn:li:activity:6678621134038147072)
  - [x] _June 17 2020_  : Going deep in Kubernetes by the help of coursera  
  ## Day 130-143: June 18- july 1 2020
- - [x] _June 18 2020_ : 
- - [x] _June 19 2020_ : 
--  [x] _June 20 2020_ : 
--  [x] _June 21 2020_ : 
- - [x] _June 22 2020_ :
- - [x] _June 23 2020_ : 
- - [x] _June 24 2020_ :  
- - [x] _June 25 2020_ : 
- - [x] _June 26 2020_ : 
--  [x] _June 27 2020_ : 
- - [x] _June 28 2020_ :
- - [x] _June 29 2020_ : 
- - [x] _June 30 2020_ :  
+ - [x] _June 18 2020_ : WS monitor the instance ( Cloudwatch ) in AWS 
+ - [x] _June 19 2020_ : * Reverse Proxy, front end server, backend server, register types of register and use of them discovery register, end point Nating and pating means and how we can achieve it front end port and back end port in k8s.
+-  [x] _June 20 2020_ : how to use to clusterIP, Node Port, and Load Balancer and how we can create it code using YAML file in k8s.
+-  [x] _June 21 2020_ : Organization of Multi-Node Kubernetes Cluster with the assistance of a few cloned Virtual Machine in k8s. 
+ - [x] _June 22 2020_ : Kubelet is a program in slave hub, when ace make a solicitation then this program need to tune in to ace and need to dispatch a case for customer in k8s.
+ - [x] _June 23 2020_ : launch Etcd  database administration which is utilized for perpetual capacity like for mystery key which comprise of token or username and secret phrase in k8s.
+ - [x] _June 24 2020_ : Create Kube ApiServer with a name that sets out to DNS and SSH access from one gadget to all hubs, by means of utilization of token from ace hub. Kube Controller is a program which have attempts to continue checking on unit. Kube Scheduler is a sort of administration/program/daemon which convey the case in various slaves.
+ - [x] _June 25 2020_ : learnt about "K8s doesn't bolster the cgroup driver 'cgroupfs'. It works appropriately on 'systemd' cgroup driver. Trade is one sort of memory the executives which we need to cripple it". 
+ - [x] _June 26 2020_ :  learnt about "Kubeadm is an order which assists with making own multi hub K8s bunch. Kubeadm init make a control plane by giving scope of IP to case. Ace will make one token and give to slave with the goal that they can associate"
+-  [x] _June 27 2020_ : learnt about  "iproute-tc is utilized to control organize traffic and K8s utilized this to deal with the traffic. Kube-intermediary is utilized to deal with the units to interface with customer. We need to make a Flannel arrange with the goal that two compartments can convey to one another."
+ - [x] _June 28 2020_ : learnt about   "Worker component in  kubelet"
+ - [x] _June 29 2020_ : learnt about   "kube-proxy, Namespace, flannel ovelay network, config map".
+ - [x] _June 30 2020_ : learnt about   "Master components: etcd, appserver, kubelet, controller,scheduler".
  - [x] _July 1 2020_  :
