@@ -351,4 +351,7 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _July 16 2020_ : learnt about "What are the desired states, current states, plans and terraform modules for management of terraform IAC. Terraform registry."
  - [x] _July 17 2020_ : learnt about "How is NaaS(neutron) works in RHOSP and how to practically create and see routers, and other networking devices (SDNs) and subnets(Public & Private)."
  - [x] _July 18 2020_ : learnt about "How to do bridging your main NIC to the router of the openstack network to make the public network. NAT rules, iptables, and other networking concepts."
- - [x] _July 19 2020_ : learnt about "Done with Flutter installation with Android studio & Visual studio code."
+- [x] _July 19 2020_ : learnt about "Done with Flutter installation with Android studio & Visual studio code."
+- [x] _July 20 2020_ : learnt about "App Deployment over Android Phone insetead of AVD."
+- [x] _July 21 2020_ :  learnt about "What is Dart & How to setup environment for Dart-SDK"
+
