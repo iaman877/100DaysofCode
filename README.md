@@ -346,5 +346,6 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _July 11 2020_ : learnt about "What is ingress/inbound rule? What is egress/outbound rule".
  - [x] _July 12 2020_ : learnt about "How to create a security group in AWS? Use of Bastion host."
  - [x] _July 13 2020_ : learnt about "what is happening inside a cloud which cannot be achieved in public cloud"
- - [x] _July 14 2020_ : learnt about "How to add network card on router?
- - [x] _July 15 2020_ : learnt about "how to Security group rule & How to connect instances launched in openstack cloud to outside world?
+ - [x] _July 14 2020_ : learnt about "How to add network card on router"
+ - [x] _July 15 2020_ : learnt about "how to Security group rule & How to connect instances launched in openstack cloud to outside world"
+ - [x] _July 16 2020_ : learnt about "What are the desired states, current states, plans and terraform modules for management of terraform IAC. Terraform registry."
