@@ -334,3 +334,4 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _June 29 2020_ : learnt about "kube-proxy, Namespace, flannel ovelay network, config map".
  - [x] _June 30 2020_ : learnt about "Master components: etcd, appserver, kubelet, controller,scheduler".
  - [x] _July 1 2020_  : learnt about "How we can create a kubernetes cluster using EKS and eksctl" on top os AWS EKS.
+ - [x] _July 2 2020_  : learnt about "What are the different services of AWS that are used by EKS to maintain the cluster and availability."
