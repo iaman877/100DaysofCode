@@ -344,3 +344,4 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _July 9 2020_  : learnt about "How to setup your own VPC with different types of subnet and internet gateway and routing tables.
  - [x] _July 10 2020_ : learnt about "core logics of Networking".
  - [x] _July 11 2020_ : learnt about "What is ingress/inbound rule? What is egress/outbound rule".
+ - [x] _July 12 2020_ : learnt about "How to create a security group in AWS? Use of Bastion host."
