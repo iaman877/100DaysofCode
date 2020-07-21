@@ -339,4 +339,5 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _July 4 2020_  : learnt about "How pvc and pv created using EKS and what process it follows on AWS EKS"
  - [x] _July 5 2020_  : learnt about "What is the role of spot instance and how we can create using eksctl on AWS EKS"
  - [x] _July 6 2020_  : learnt about "What is CNI and how EKS create a CNI among the node "
- - [x] _July 6 2020_  : learnt about "What is HELM and how we can use it on AWS EKS"
+ - [x] _July 7 2020_  : learnt about "What is HELM and how we can use it on AWS EKS"
+ - [x] _July 8 2020_  : learnt about " VPC and Neutron works on Network As A Service and how to practically set them on AWS .
