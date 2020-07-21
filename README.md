@@ -324,7 +324,7 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _June 19 2020_ :  learnt about  Reverse Proxy, front end server, backend server, register types of register and use of them discovery register, end point Nating and pating means and how we can achieve it front end port and back end port in k8s.
 -  [x] _June 20 2020_ :  learnt about  how to use to clusterIP, Node Port, and Load Balancer and how we can create it code using YAML file in k8s.
 -  [x] _June 21 2020_ :  learnt about  Organization of Multi-Node Kubernetes Cluster with the assistance of a few cloned Virtual Machine in k8s. 
- - [x] _June 22 2020_ :  learnt about   Kubelet is a program in slave hub, when ace make a solicitation then this program need to tune in to ace and need to dispatch a case for customer in k8s.
+ - [x] _June 22 2020_ :  learnt about Kubelet is a program in slave hub, when ace make a solicitation then this program need to tune in to ace and need to dispatch a case for customer in k8s.
  - [x] _June 23 2020_ : learnt about  how to  launch Etcd  database administration which is utilized for perpetual capacity like for mystery key which comprise of token or username and secret phrase in k8s.
  - [x] _June 24 2020_ :  learnt about  how to Create Kube ApiServer with a name that sets out to DNS and SSH access from one gadget to all hubs, by means of utilization of token from ace hub. Kube Controller is a program which have attempts to continue checking on unit. Kube Scheduler is a sort of administration/program/daemon which convey the case in various slaves.
  - [x] _June 25 2020_ : learnt about "K8s doesn't bolster the cgroup driver 'cgroupfs'. It works appropriately on 'systemd' cgroup driver. Trade is one sort of memory the executives which we need to cripple it". 
@@ -336,3 +336,4 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _July 1 2020_  : learnt about "How we can create a kubernetes cluster using EKS and eksctl" on top os AWS EKS.
  - [x] _July 2 2020_  : learnt about "What are the different services of AWS that are used by EKS to maintain the cluster and availability."
  - [x] _July 3 2020_  : learnt about "What is the role of load balancer service of kubernetes on AWS EKS "
+ - [x] _July 3 2020_  : learnt about "How pvc and pv created using EKS and what process it follows on AWS EKS "
