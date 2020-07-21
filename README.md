@@ -341,3 +341,4 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _July 6 2020_  : learnt about "What is CNI and how EKS create a CNI among the node "
  - [x] _July 7 2020_  : learnt about "What is HELM and how we can use it on AWS EKS"
  - [x] _July 8 2020_  : learnt about "how VPC and Neutron works on Network As A Service and how to practically set them on AWS .
+ - [x] _July 9 2020_  : learnt about "How to setup your own VPC with different types of subnet and internet gateway and routing tables.
