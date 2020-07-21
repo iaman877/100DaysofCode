@@ -336,5 +336,6 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _July 1 2020_  : learnt about "How we can create a kubernetes cluster using EKS and eksctl" on top os AWS EKS.
  - [x] _July 2 2020_  : learnt about "What are the different services of AWS that are used by EKS to maintain the cluster and availability."
  - [x] _July 3 2020_  : learnt about "What is the role of load balancer service of kubernetes on AWS EKS"
- - [x] _July 3 2020_  : learnt about "How pvc and pv created using EKS and what process it follows on AWS EKS"
- - [x] _July 3 2020_  : learnt about "What is the role of spot instance and how we can create using eksctl on AWS EKS"
+ - [x] _July 4 2020_  : learnt about "How pvc and pv created using EKS and what process it follows on AWS EKS"
+ - [x] _July 5 2020_  : learnt about "What is the role of spot instance and how we can create using eksctl on AWS EKS"
+ - [x] _July 5 2020_  : learnt about "What is CNI and how EKS create a CNI among the node.?"
