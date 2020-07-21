@@ -319,7 +319,7 @@ how to track events held on the AWS account using Cloud trail.
  - [x] _June 15 2020_ : Started learning Kubernetes:[Link](https://github.com/iaman877/Kubernetes)
  - [x] _June 16 2020_ :  Completed my 1st " Multi Hybrid Cloud" project:[Link](https://www.linkedin.com/feed/update/urn:li:activity:6678621134038147072)
  - [x] _June 17 2020_  : Going deep in Kubernetes by the help of coursera  
- ## Day 130-143: June 18- july 1 2020
+ ## Day 130-62: June 18- july 21 2020
  - [x] _June 18 2020_ :  learnt about  WS monitor the instance ( Cloudwatch ) in AWS 
  - [x] _June 19 2020_ :  learnt about  Reverse Proxy, front end server, backend server, register types of register and use of them discovery register, end point Nating and pating means and how we can achieve it front end port and back end port in k8s.
 -  [x] _June 20 2020_ :  learnt about  how to use to clusterIP, Node Port, and Load Balancer and how we can create it code using YAML file in k8s.
