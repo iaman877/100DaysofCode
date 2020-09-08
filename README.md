@@ -356,4 +356,14 @@ how to track events held on the AWS account using Cloud trail.
 - [x] _July 19 2020_ : learnt about "Done with Flutter installation with Android studio & Visual studio code."
 - [x] _July 20 2020_ : learnt about "App Deployment over Android Phone insetead of AVD."
 - [x] _July 21 2020_ :  learnt about "What is Dart & How to setup environment for Dart-SDK"
-
+## Day 163-172: June 22- july 31 2020
+- [x] _July 22 2020_  learnt about What are modules? What are adhoc commands?
+- [x] _July 23 2020_  learnt about How to configure webserver using ansible? Use of playbook.
+- [x] _July 24 2020_  learnt about Provisioning OS using Ansible Using API of AWS services,
+- [x] _July 25 2020_  learnt about What is boto3 SDK in python? Using ec2 module in ansible playbook Access Credentials in Vaults
+- [x] _July 26 2020_  learnt about What are Class and Attribute, Object(Instance)
+- [x] _July 27 2020_  learnt about What is setter and getter process.
+- [x] _July 28 2020_  learnt about Why normal user cannot access ansible.cfg file and inventory.
+- [x] _July 29 2020_ learnt about  How to Create ansible.cfg file and inventory in normal user account.
+- [x] _July 30 2020_ learnt about  How to give root/sudo power for particular commands to normal user account.
+- [x] _July 31 2020_ learnt about Why it is good practice to use private key for ssh & Why it is good practice to give same username and password in enterprise world.
