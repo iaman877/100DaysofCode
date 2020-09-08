@@ -367,35 +367,35 @@ how to track events held on the AWS account using Cloud trail.
 - [x] _July 29 2020_ learnt about  How to Create ansible.cfg file and inventory in normal user account in ansible.
 - [x] _July 30 2020_ learnt about  How to give root/sudo power for particular commands to normal user accountin ansible
 - [x] _July 31 2020_ learnt about Why it is good practice to use private key for ssh & Why it is good practice to give same username and password in enterprise world in ansible.
-- [x] _ August 1 2020_ learnt about How are privileges of different commands associated with root and other users in ansible.
-- [x] _ August 2 2020_  learnt about What is '/etc/shadow' file, who can access it in ansible.
-- [x] _ August 3 2020_  learnt about What is privilege escalation in ansible 
-- [x] _ August 4 2020_ learnt about Where does 'sudo' term come from and what does it do in ansible
-- [x] _ August  5 2020_ learnt about How to add privilege for a particular command in ansible
-- [x] _ August 6 2020_ learnt about What is '/etc/sudoers' file in ansible
-- [x] _ August 7 2020_ learnt about How to create groups and add users to them in ansible
-- [x] _ August 8 2020_ learnt about What are user id and group id in ansible
-- [x] _ August 9 2020_ learnt about How to set hostname in ansible
-- [x] _ August 10 2020_ learnt about What is ROLE & use cases in ansible
-- [x] _ August 11 2020_ learnt about What is the purpose of setting ROLE Path in ansible
-- [x] _ August 12 2020_ learnt about How to customize ROLE according to need in ansible 
-- [x] _ August 13 2020_ learnt about How to Create a Dynamic Inventory in ansible
-- [x] _ August 14 2020_ learnt about How internally Ansible uses Python codes in ansible
-- [x] _ August 15 2020_ learnt about How to use .ini files in ansible
-- [x] _ August 16 2020_ learnt about How to fetch IP from any kind of Network like  AWS, Docker, LAN  in Ansible
-- [x] _ August 17 2020_ learnt about What is HAproxy program in load balancer in Ansible
-- [x] _ August 18 2020_ learnt about How to configure system as a HAproxy with the help of Ansible
-- [x] _ August 19 2020_ learnt about How to update config file of HAproxy dynamically in Controller node by using Ansible
-- [x] _ August 20 2020_ learnt about What is Jinga template and use of it in Ansible
-- [x] _ August 21 2020_ learnt about What command module exactly do in Ansible
-- [x] _ August 22 2020_ learnt about How to make command module Idempotent & Difference between shell and command in Ansible 
-- [x] _ August 23 2020_ learnt about  Where to use command and shell module in Ansible
-- [x] _ August 24 2020_ learnt about Usecase of block , rescue and always in Excepton handling in Ansible
-- [x] _ August 25 2020_ learnt about How to pull and use role from Ansible Galaxy. - What is Exception and Exception handling in Ansible
-- [x] _ August 26 2020_ learnt about What was the real use of automation in the Tesla industry
-- [x] _ August 27 2020_ learnt about What is SILOS in Ansible 
-- [x] _ August 28 2020_ learnt about How Ansible was Designed? How does Automation happen
-- [x] _ August 29 2020_ learnt about What Ansible can automate? Is Ansible a Security Solution
-- [x] _ August 30 2020_ learnt about  What are workflows? What is push-button automation in Ansible 
-- [x] _ August 31 2020_ learnt about What are the Use cases of Ansible in Configuration Management, Application Deployment, Provisioning, and Orchestration
+- [x] _August 1 2020_ learnt about How are privileges of different commands associated with root and other users in ansible.
+- [x] _August 2 2020_  learnt about What is '/etc/shadow' file, who can access it in ansible.
+- [x] _August 3 2020_  learnt about What is privilege escalation in ansible 
+- [x] _August 4 2020_ learnt about Where does 'sudo' term come from and what does it do in ansible
+- [x] _August  5 2020_ learnt about How to add privilege for a particular command in ansible
+- [x] _August 6 2020_ learnt about What is '/etc/sudoers' file in ansible
+- [x] _August 7 2020_ learnt about How to create groups and add users to them in ansible
+- [x] _August 8 2020_ learnt about What are user id and group id in ansible
+- [x] _August 9 2020_ learnt about How to set hostname in ansible
+- [x] _August 10 2020_ learnt about What is ROLE & use cases in ansible
+- [x] _August 11 2020_ learnt about What is the purpose of setting ROLE Path in ansible
+- [x] _August 12 2020_ learnt about How to customize ROLE according to need in ansible 
+- [x] _August 13 2020_ learnt about How to Create a Dynamic Inventory in ansible
+- [x] _August 14 2020_ learnt about How internally Ansible uses Python codes in ansible
+- [x] _August 15 2020_ learnt about How to use .ini files in ansible
+- [x] _August 16 2020_ learnt about How to fetch IP from any kind of Network like  AWS, Docker, LAN  in Ansible
+- [x] _August 17 2020_ learnt about What is HAproxy program in load balancer in Ansible
+- [x] _August 18 2020_ learnt about How to configure system as a HAproxy with the help of Ansible
+- [x] _August 19 2020_ learnt about How to update config file of HAproxy dynamically in Controller node by using Ansible
+- [x] _August 20 2020_ learnt about What is Jinga template and use of it in Ansible
+- [x] _August 21 2020_ learnt about What command module exactly do in Ansible
+- [x] _August 22 2020_ learnt about How to make command module Idempotent & Difference between shell and command in Ansible 
+- [x] _August 23 2020_ learnt about  Where to use command and shell module in Ansible
+- [x] _August 24 2020_ learnt about Usecase of block , rescue and always in Excepton handling in Ansible
+- [x] _August 25 2020_ learnt about How to pull and use role from Ansible Galaxy. - What is Exception and Exception handling in Ansible
+- [x] _August 26 2020_ learnt about What was the real use of automation in the Tesla industry
+- [x] _August 27 2020_ learnt about What is SILOS in Ansible 
+- [x] _August 28 2020_ learnt about How Ansible was Designed? How does Automation happen
+- [x] _August 29 2020_ learnt about What Ansible can automate? Is Ansible a Security Solution
+- [x] _August 30 2020_ learnt about  What are workflows? What is push-button automation in Ansible 
+- [x] _August 31 2020_ learnt about What are the Use cases of Ansible in Configuration Management, Application Deployment, Provisioning, and Orchestration
 
