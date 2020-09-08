@@ -1,3 +1,5 @@
+![301days logo-08](https://user-images.githubusercontent.com/49730521/92457620-0e1e6f80-f1e2-11ea-811e-fc78fbf6bd02.jpg)
+
 # 301DaysofCode
 
 ## Day 1:  Feb 9 2020
