@@ -356,7 +356,7 @@ how to track events held on the AWS account using Cloud trail.
 - [x] _July 19 2020_ : learnt about "Done with Flutter installation with Android studio & Visual studio code."
 - [x] _July 20 2020_ : learnt about "App Deployment over Android Phone insetead of AVD."
 - [x] _July 21 2020_ :  learnt about "What is Dart & How to setup environment for Dart-SDK"
-## Day 163-203: June 22- August 31 2020
+## Day 163-275: June 22- September 31 2020
 - [x] _July 22 2020_  learnt about What are modules? What are adhoc commands in ansible
 - [x] _July 23 2020_  learnt about How to configure webserver using ansible & Use of playbook in ansible
 - [x] _July 24 2020_  learnt about Provisioning OS using Ansible Using API of AWS servicesin ansible 
@@ -398,4 +398,14 @@ how to track events held on the AWS account using Cloud trail.
 - [x] _August 29 2020_ learnt about What Ansible can automate? Is Ansible a Security Solution
 - [x] _August 30 2020_ learnt about  What are workflows? What is push-button automation in Ansible 
 - [x] _August 31 2020_ learnt about What are the Use cases of Ansible in Configuration Management, Application Deployment, Provisioning, and Orchestration
+- [x] _September 1 2020_ learnt about What is different between series and parallel in ansible
+- [x] _September 2 2020_ learnt about What is different between sync and async in ansible
+- [x] _September 3 2020_ learnt about What is fork,  dump and list in ansible
+- [x] _September 4 2020_ learnt about How to check real time running program in redhat.
+- [x] _September 5 2020_ learnt about What is plugin and why we use plugins in ansible
+- [x] _September 6 2020_ learnt about How we can callback the standard output with Ansible 
+- [x] _September 7 2020_ learnt about How to call back the standard output to speakers and how we solve bug in espeak
+- [x] _September 8 2020_ learnt about What is filter plugin in Ansible and how we can use in ansible
+- [x] _September 9 2020_ learnt about How to make windows as managed node with winrm protocol
+ 
 
