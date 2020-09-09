@@ -356,7 +356,7 @@ how to track events held on the AWS account using Cloud trail.
 - [x] _July 19 2020_ : learnt about "Done with Flutter installation with Android studio & Visual studio code."
 - [x] _July 20 2020_ : learnt about "App Deployment over Android Phone insetead of AVD."
 - [x] _July 21 2020_ :  learnt about "What is Dart & How to setup environment for Dart-SDK"
-## Day 163-275: June 22- September 31 2020
+## Day 163-275: June 22- September 9 2020
 - [x] _July 22 2020_  learnt about What are modules? What are adhoc commands in ansible
 - [x] _July 23 2020_  learnt about How to configure webserver using ansible & Use of playbook in ansible
 - [x] _July 24 2020_  learnt about Provisioning OS using Ansible Using API of AWS servicesin ansible 
