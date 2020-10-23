@@ -356,7 +356,6 @@ how to track events held on the AWS account using Cloud trail.
 - [x] _July 19 2020_ : learnt about "Done with Flutter installation with Android studio & Visual studio code."
 - [x] _July 20 2020_ : learnt about "App Deployment over Android Phone insetead of AVD."
 - [x] _July 21 2020_ :  learnt about "What is Dart & How to setup environment for Dart-SDK"
-## Day 163-275: June 22- September 9 2020
 - [x] _July 22 2020_  learnt about What are modules? What are adhoc commands in ansible
 - [x] _July 23 2020_  learnt about How to configure webserver using ansible & Use of playbook in ansible
 - [x] _July 24 2020_  learnt about Provisioning OS using Ansible Using API of AWS servicesin ansible 
@@ -407,5 +406,48 @@ how to track events held on the AWS account using Cloud trail.
 - [x] _September 7 2020_ learnt about How to call back the standard output to speakers and how we solve bug in espeak
 - [x] _September 8 2020_ learnt about What is filter plugin in Ansible and how we can use in ansible
 - [x] _September 9 2020_ learnt about How to make windows as managed node with winrm protocol
- 
-
+ [x] _September 10 2020_ learnt about How to change replication factor and block size in python
+  [x] _September 11 2020_ learnt about How to login with IAM user || What is serverless || what is format of object url?
+  [x] _September 12 2020_ learnt about What is Inbound Traffic and All Traffic ||  How do we allow in AWS instance
+  [x] _September 13 2020_ learnt about  What is the inbuilt function in Jupyter Notebook to calculate CPU Time & What are Jupyter Magic Functions 
+  [x] _September 14 2020_ learnt about LinearRegression & predictor in detail 
+  [x] _September 15 2020_ learnt about What are predictor and target variables in machine learning
+  [x] _September 16 2020_ learnt about What is the mathematical formula used by linear regression
+  [x] _September 17 2020_ learnt about What are dependent and independent variables
+   [x] _September 18 2020_ learnt about What is the function to know the coefficient calculated in linear regression
+   [x] _September 19 2020_ learnt about What is machine learning model
+   [x] _September 20 2020_ learnt about Which module is used for drawing graph in python
+   [x] _September 21 2020_ learnt about What is scatter and plot function of matplotlib modules
+   [x] _September 22 2020_ learnt about Which function create formula(say y=c*x) in Machine Learning and Find the value of coefficient
+   [x] _September 23 2020_ learnt about What is Data Point and Regressor Line
+   [x] _September 24 2020_ learnt about What is the flexible behavior of NumPy? What is Unicode
+   [x] _September 25 2020_ learnt about Why mathematical operations are not possible on the default NumPy array
+   [x] _September 26 2020_ learnt about What is Place Holder and String Interpolation in the Python
+   [x] _September 27 2020_ learnt about What is the meaning of BIAS in the ML World
+   [x] _September 28 2020_ learnt about What are the main things you require to connect through RDP in AWS
+   [x] _September 29 2020_ learnt about How a user can connect to windows OS via RDP in AWS
+   [x] _September 30 2020_ learnt about How to save the data by corruption or accidental delete in AWS
+   [x] _October 1 2020_ learnt about What are the required parameters for creating and launching instances using AWS CLI
+   [x] _October 2 2020_ learnt about  started with 30days of google cloud, today completed Getting Started: Create and Manage Cloud Resources
+   [x] _October 3 2020_ learnt about  created 1 PR for hactoberfest2020
+   [x] _October 4 2020_ learnt about  What o/p do you expect on running the command "df -h" in AWS 
+   [x] _October 5 2020_ learnt about How to deploy Apache Web server on AWS cloud 
+   [x] _October 6 2020_    completed with cloud storage and IAM in GCP 
+   [x] _October 7 2020_  completed with Perform Foundational Infrastructure Tasks in Google Cloud
+   [x] _October 8 2020_  created some PRs for hactoberfest
+   [x] _October 9 2020_ created some more PRs for hactoberfest previous one got merged
+   [x] _October 10 2020_ completed Orchestrating the Cloud with Kubernetes for 30 days of google cloud
+   [x] _October 11 2020_ completed Kubernetes Engine: Qwik Start lab 
+    [x] _October 12 2020_  completed Creating a Virtual Machine lab
+    [x] _October 13 2020_  trying but not able to complete Set Up Network and HTTP Load Balancers
+    [x] _October 14 2020_  completed Cloud Functions: Qwik Start - Console lab
+    [x] _October 15 2020_  completed Google Cloud Pub/Sub: Qwik Start - Console lab 
+    [x] _October 16 2020_  completed Introduction to SQL for BigQuery and Cloud SQL
+    [x] _October 17 2020_  trying but not able to complete Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
+    [x] _October 18 2020_  completed completed Cloud Storage: Qwik Start - Cloud Console lab 
+    [x] _October 19 2020_ trying but not able to complete Multiple VPC Networks 
+    [x] _October 20 2020_ completed Google Cloud Pub/Sub: Qwik Start - Console lab 
+    [x] _October 21 2020_  revise concept of ML 
+    [x] _October 22 2020_ learnt about What is Tableau & how it is used to prediction of data 
+    [x] _October 23 2020_ learnt about story, sheet, dashboard in Tableau
+   
