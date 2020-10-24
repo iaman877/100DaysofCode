@@ -451,4 +451,4 @@ how to track events held on the AWS account using Cloud trail.
 -    [x] _October 22 2020_ learnt about What is Tableau & how it is used to prediction of data 
 -    [x] _October 23 2020_ learnt about story, sheet, dashboard in Tableau
 ## Day 24: October 24 2020 
-   
+-    [x] _October 23 2020_  Created some PRs for hactoberfest & learn abiut timer & intrupt in RTOS 
