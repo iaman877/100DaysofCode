@@ -456,3 +456,5 @@ how to track events held on the AWS account using Cloud trail.
 done some numpy program in python 
 ## Day 270: October 26-2020
 learnt about Cloud Front RTMP in Aws.
+## Day 271: October 27-2020
+Try to make  doccumenation of my minor-1 on Cryptogry file system 
