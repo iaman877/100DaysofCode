@@ -458,5 +458,7 @@ done some numpy program in python
 learnt about Cloud Front RTMP in Aws.
 ## Day 271: October 27-2020
 Try to make  doccumenation of my minor-1 on Cryptogry file system 
-## Day 272: October 27-2020
+## Day 272: October 28-2020
 Add some file-handlling feature in my minor-1. 
+## Day 273: October 29-2020
+Today I try to implement some cryptography algo in my minor-1 project. 
