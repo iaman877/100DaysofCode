@@ -462,3 +462,5 @@ Try to make  doccumenation of my minor-1 on Cryptogry file system
 Add some file-handlling feature in my minor-1. 
 ## Day 273: October 29-2020
 Today I try to implement some cryptography algo in my minor-1 project. 
+## Day 274-275: October 30-31-2020
+try to draw level 0,1 of Data flow diagram and start coding for frontand for my minor-1.
