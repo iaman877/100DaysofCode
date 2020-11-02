@@ -464,3 +464,5 @@ Add some file-handlling feature in my minor-1.
 Today I try to implement some cryptography algo in my minor-1 project. 
 ## Day 274-275: October 30-31-2020
 try to draw level 0,1 of Data flow diagram and start coding for frontand for my minor-1.
+## Day 276-277: November 1-2 2020
+Completed 2 Quests (1) Set up and Configure a Cloud Environment in Google Cloud & (2) Getting Started: Create and Manage Cloud Resources for 30 days of google cloud.
