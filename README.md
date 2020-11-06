@@ -470,3 +470,5 @@ Completed 2 Quests (1) Set up and Configure a Cloud Environment in Google Cloud 
 Completed "Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab" for 30 days of google cloud.
 ## Day 279  November 4 2020
 Completed "Create an Internal Load Balancer Lab" for 30 days of google cloud.
+## Day 280-281 November 5-6 2020
+As 30daysofgooglecloud ended, I also binded up my all lab with in deadline 
