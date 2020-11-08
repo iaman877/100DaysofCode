@@ -472,3 +472,5 @@ Completed "Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
 Completed "Create an Internal Load Balancer Lab" for 30 days of google cloud.
 ## Day 280-281 November 5-6 2020
 As 30daysofgooglecloud ended, I also binded up my all lab with in deadline 
+## Day 282-283 November 6-7 2020
+Revise Dynamic programming and implement SJFS in C 
