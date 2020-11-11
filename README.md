@@ -474,3 +474,5 @@ Completed "Create an Internal Load Balancer Lab" for 30 days of google cloud.
 As 30daysofgooglecloud ended, I also binded up my all lab with in deadline 
 ## Day 282-283 November 6-7 2020
 Revise Dynamic programming and implement SJFS in C 
+## Day 284-288 November 7-10 2020
+In these days i am Preparing Frontend for for minor projects.
